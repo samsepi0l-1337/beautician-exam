@@ -154,6 +154,10 @@ body {
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
+  /* 한글 어절 단위 개행: '화장품'이 '화장'/'품'처럼 단어 중간에서 끊기지 않도록.
+     너무 긴 토큰(URL 등)은 넘침 방지를 위해 break-word로만 예외 처리. */
+  word-break: keep-all;
+  overflow-wrap: break-word;
 }
 
 img,
@@ -489,14 +493,18 @@ a:hover {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 32px;
+  align-self: flex-start;
+  min-width: 32px;
   height: 32px;
+  padding: 0 var(--space-2);
   border-radius: var(--radius-sm);
   background: var(--bg-subtle);
   font-family: var(--font-serif);
   font-size: var(--fs-sm);
   font-weight: 700;
   color: var(--text-secondary);
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .category-card[data-cat="theory"] .cat-initial { color: var(--cat-theory); }
