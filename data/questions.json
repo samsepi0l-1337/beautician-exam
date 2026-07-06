@@ -1,0 +1,3124 @@
+{
+  "questions": [
+    {
+      "category": "theory",
+      "question": "최근 유행하는 '레이어드 컷(Layered Cut)' 시술 시, 층의 높낮이를 결정하는 가장 핵심적인 요소는?",
+      "options": [
+        "가위의 종류",
+        "시술 각도 (Elevation)",
+        "샴푸의 횟수",
+        "고객의 체중"
+      ],
+      "answerIndex": 1,
+      "explanation": "레이어드 컷의 층 높낮이는 두피에서 모발을 들어올리는 시술 각도(엘리베이션)에 의해 결정된다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "헤어 커트 시 시술자의 손가락 모양이 섹션(Section) 라인과 평행하지 않게 비스듬히 커트하여 길이에 변화를 주는 기법은?",
+      "options": [
+        "평행 커트",
+        "비평행 커트",
+        "수직 커트",
+        "수평 커트"
+      ],
+      "answerIndex": 1,
+      "explanation": "섹션 라인과 비스듬한 각도로 자르는 비평행 커트 기법이다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "skin",
+      "question": "두피 진단 시 '민감성 두피'의 특징으로 가장 적절한 것은?",
+      "options": [
+        "피지 분비가 왕성하여 번들거린다.",
+        "두피 톤이 붉고 모세혈관이 육안으로 관찰되기도 한다.",
+        "각질이 두껍게 쌓여 있다.",
+        "모발이 굵고 탄력이 넘친다."
+      ],
+      "answerIndex": 1,
+      "explanation": "민감성 두피는 자극에 예민하여 붉은 기와 모세혈관 확장이 관찰될 수 있다.",
+      "subCategory": "skin-2"
+    },
+    {
+      "category": "theory",
+      "question": "퍼머넌트 웨이브 시술 시 모발에 약제를 도포한 후, 컬의 형성 정도를 확인하기 위해 롯드를 1.5~2바퀴 풀어보는 과정은?",
+      "options": [
+        "와인딩",
+        "테스트 컬 (Test Curl)",
+        "중간 린스",
+        "중화"
+      ],
+      "answerIndex": 1,
+      "explanation": "테스트 컬은 웨이브 형성 정도를 중간에 확인하는 과정이다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "theory",
+      "question": "헤어 컬러링 시 '옴브레(Ombre)'나 '발레아쥬(Balayage)' 기법의 특징으로 옳은 것은?",
+      "options": [
+        "모발 전체를 한 가지 색으로 균일하게 염색한다.",
+        "뿌리부터 끝까지 색상이 자연스럽게 점진적으로 변하게 한다.",
+        "흰머리(새치)를 완벽하게 은폐하는 것이 주 목적이다.",
+        "두피에만 염색약을 바르는 기법이다."
+      ],
+      "answerIndex": 1,
+      "explanation": "옴브레·발레아쥬는 뿌리에서 모발 끝으로 갈수록 자연스러운 색상 그라데이션을 주는 기법이다.",
+      "subCategory": "theory-9"
+    },
+    {
+      "category": "theory",
+      "question": "모발의 구조 중 화학 약품(퍼머액, 염색약)의 반응이 주로 일어나는 장소이며 멜라닌 색소가 포함된 곳은?",
+      "options": [
+        "모수질",
+        "모피질 (Cortex)",
+        "모표피",
+        "모유두"
+      ],
+      "answerIndex": 1,
+      "explanation": "모피질은 모발의 80~90%를 차지하며 멜라닌 색소와 화학적 반응이 일어나는 핵심 층이다.",
+      "subCategory": "theory-5"
+    },
+    {
+      "category": "theory",
+      "question": "샴푸의 종류 중 모발에 쌓인 금속 잔류물이나 스타일링 제품의 찌꺼기를 강력하게 세정할 때 사용하는 것은?",
+      "options": [
+        "건성 샴푸",
+        "클래리파잉(Clarifying) 샴푸",
+        "산성 샴푸",
+        "단백질 샴푸"
+      ],
+      "answerIndex": 1,
+      "explanation": "클래리파잉 샴푸는 강한 세정력으로 잔여물과 스타일링 제품 찌꺼기를 제거한다.",
+      "subCategory": "theory-4"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업소에서 사용하는 '타월(Towel)' 소독 시 가장 위생적이고 확실한 방법은?",
+      "options": [
+        "물로만 헹군다.",
+        "증기 소독 또는 섭씨 100도 이상의 열탕 소독",
+        "가볍게 털어서 햇볕에 말린다.",
+        "향수를 뿌려 냄새를 제거한다."
+      ],
+      "answerIndex": 1,
+      "explanation": "타월은 증기 소독이나 100도 이상의 열탕 소독이 가장 확실하다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "theory",
+      "question": "헤어 드라이 시 모발의 손상을 최소화하기 위한 방법으로 옳은 것은?",
+      "options": [
+        "드라이기 노즐을 모발에 완전히 밀착시킨다.",
+        "바람을 모근에서 모발 끝 방향(큐티클 결 방향)으로 보낸다.",
+        "고온의 강한 바람으로 한 곳만 집중적으로 말린다.",
+        "완전히 젖은 상태에서 롤 브러시로 강하게 잡아당긴다."
+      ],
+      "answerIndex": 1,
+      "explanation": "큐티클 결 방향(모근에서 모발 끝)으로 바람을 보내야 손상과 뜸을 최소화하고 광택을 살릴 수 있다.",
+      "subCategory": "theory-8"
+    },
+    {
+      "category": "hygiene",
+      "question": "다음 중 '공중위생관리법'상 미용업 영업자가 지켜야 할 위생관리기준을 위반했을 때, 1차 위반 시 내려지는 처분은?",
+      "options": [
+        "면허 취소",
+        "경고 또는 개선명령",
+        "영업장 폐쇄",
+        "구속 수사"
+      ],
+      "answerIndex": 1,
+      "explanation": "위생관리기준 위반의 1차 처분은 경고 또는 개선명령이다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "theory",
+      "question": "최근 미용실 서비스 트렌드 중 'CS(고객만족)' 차원에서 시술 전 반드시 진행해야 하는 과정은?",
+      "options": [
+        "선결제 요구",
+        "전문적인 상담(Consultation) 및 동의서 작성",
+        "무조건적인 고가 시술 권유",
+        "시술 중 개인적인 질문 공세"
+      ],
+      "answerIndex": 1,
+      "explanation": "시술 전 전문 상담과 동의서 작성은 고객 만족과 분쟁 예방에 필수적이다.",
+      "subCategory": "theory-10"
+    },
+    {
+      "category": "skin",
+      "question": "두피 스케일링(Scalp Scaling)의 주된 목적은?",
+      "options": [
+        "모발의 길이를 연장한다.",
+        "두피의 노폐물, 과다 피지, 노화 각질을 제거하여 청결을 유지한다.",
+        "모발의 색상을 바꾼다.",
+        "퍼머넌트 웨이브를 오래 유지시킨다."
+      ],
+      "answerIndex": 1,
+      "explanation": "두피 스케일링은 노폐물과 과다 피지, 노화 각질을 제거해 두피를 청결하게 유지하는 관리이다.",
+      "subCategory": "skin-1"
+    },
+    {
+      "category": "theory",
+      "question": "모발의 결합 중 '화학적(영구적) 변화'를 일으키며 퍼머넌트 제1액에 의해 끊어지는 결합은?",
+      "options": [
+        "수소 결합",
+        "시스틴(이황화) 결합",
+        "이온 결합",
+        "펩타이드 결합"
+      ],
+      "answerIndex": 1,
+      "explanation": "퍼머넌트 1액(환원제)은 모발의 시스틴(이황화) 결합을 절단하여 웨이브를 형성할 수 있게 한다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "theory",
+      "question": "헤어 커트 시 사용되는 '슬라이싱(Slicing)' 기법의 효과는?",
+      "options": [
+        "모발의 길이를 뚝 끊어지게 만든다.",
+        "모발의 양(질감)을 줄이면서 흐름을 부드럽게 한다.",
+        "모발의 굵기를 굵게 만든다.",
+        "흰머리를 검게 보이게 한다."
+      ],
+      "answerIndex": 1,
+      "explanation": "슬라이싱은 가위 날로 모발 위를 미끄러지듯 잘라 숱을 줄이고 흐름을 부드럽게 한다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "색채학에서 '명도(Value)'가 의미하는 것은?",
+      "options": [
+        "색의 맑고 탁한 정도",
+        "색의 밝고 어두운 정도",
+        "색의 이름 (빨강, 파랑 등)",
+        "색의 따뜻하고 차가운 정도"
+      ],
+      "answerIndex": 1,
+      "explanation": "명도는 색의 밝고 어두운 정도를 나타내는 색의 3속성 중 하나이다.",
+      "subCategory": "theory-10"
+    },
+    {
+      "category": "hygiene",
+      "question": "다음 중 감염병의 전파 경로를 차단하는 방법으로 가장 부적절한 것은?",
+      "options": [
+        "손 씻기 생활화",
+        "실내 환기 자주 하기",
+        "사용한 미용 기구를 소독 없이 재사용하기",
+        "오염된 수건 즉시 세탁 및 소독"
+      ],
+      "answerIndex": 2,
+      "explanation": "소독 없이 기구를 재사용하는 것은 감염병 전파를 차단하기는커녕 오히려 조장하는 부적절한 행위이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "theory",
+      "question": "퍼머넌트 시술 시 '중화제(제2액)'의 성분으로 가장 많이 쓰이는 것은?",
+      "options": [
+        "암모니아",
+        "과산화수소 또는 브롬산나트륨",
+        "티오글리콜산",
+        "에탄올"
+      ],
+      "answerIndex": 1,
+      "explanation": "중화제(2액)는 과산화수소 또는 브롬산나트륨을 주성분으로 하여 끊어진 결합을 재결합시킨다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "theory",
+      "question": "인체의 골격 중 뇌를 보호하며 머리의 형태를 구성하는 뼈의 총칭은?",
+      "options": [
+        "흉골",
+        "두개골",
+        "골반골",
+        "대퇴골"
+      ],
+      "answerIndex": 1,
+      "explanation": "두개골은 뇌를 보호하고 머리의 형태를 이루는 뼈들의 총칭이다.",
+      "subCategory": "theory-11"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업 영업 신고증을 영업소 내에 게시하지 않았을 때 부과될 수 있는 과태료는?",
+      "options": [
+        "없음",
+        "법령에 따른 과태료 부과 대상",
+        "즉시 영업장 폐쇄",
+        "미용사 면허 박탈"
+      ],
+      "answerIndex": 1,
+      "explanation": "신고증 미게시는 공중위생관리법령에 따른 과태료 부과 대상이다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "theory",
+      "question": "모발의 단면을 관찰했을 때 '곱슬모(Lycotrichous)'의 특징은?",
+      "options": [
+        "원형이다.",
+        "타원형이나 납작한 모양이다.",
+        "삼각형이다.",
+        "정사각형이다."
+      ],
+      "answerIndex": 1,
+      "explanation": "곱슬모는 단면이 타원형이나 납작한 모양을 띤다.",
+      "subCategory": "theory-5"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업 영업 신고 시 구비해야 할 서류가 아닌 것은?",
+      "options": [
+        "영업 신고서",
+        "면허증 원본 및 사본",
+        "위생교육 필증",
+        "건강진단서"
+      ],
+      "answerIndex": 3,
+      "explanation": "건강진단서는 영업 신고 시 필수 구비서류에 해당하지 않는다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업소에서 사용하는 기구 및 용품의 소독에 대한 설명으로 틀린 것은?",
+      "options": [
+        "소독을 실시한 기구는 소독된 용기에 보관해야 한다.",
+        "소독은 사용 직전에 하는 것이 가장 효과적이다.",
+        "사용한 타월은 반드시 세탁하고 소독할 필요는 없다.",
+        "기구 및 용품의 소독 기준 및 방법은 보건복지부령으로 정한다."
+      ],
+      "answerIndex": 2,
+      "explanation": "사용한 타월도 반드시 세탁 및 소독해야 하므로 이 설명은 틀렸다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "「공중위생관리법」상 미용업자의 위생관리 의무에 해당하지 않는 것은?",
+      "options": [
+        "면허증을 미용업소 내부에 보기 쉬운 곳에 게시",
+        "영업장의 청결 유지",
+        "염색 시술 시 반드시 마스크 착용",
+        "1인 1회용 면도날 사용"
+      ],
+      "answerIndex": 2,
+      "explanation": "염색 시 마스크 착용은 법정 위생관리 의무 항목이 아니다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업 영업소의 위생 서비스 수준 평가 주기는?",
+      "options": [
+        "1년마다",
+        "2년마다",
+        "3년마다",
+        "5년마다"
+      ],
+      "answerIndex": 1,
+      "explanation": "위생서비스 수준 평가는 2년마다 실시한다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용사 면허 취소 사유에 해당하지 않는 것은?",
+      "options": [
+        "면허를 타인에게 대여한 경우",
+        "미용 업무 수행 중 과실로 상해를 입힌 경우",
+        "정신질환자 등으로 미용 업무 수행이 어렵다고 인정되는 경우",
+        "1년에 3회 이상 영업정지 처분을 받은 경우"
+      ],
+      "answerIndex": 3,
+      "explanation": "1년에 3회 이상 영업정지는 면허취소 사유로 명시된 항목이 아니다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업소에서 고객에게 제공하는 공용 타월의 위생 관리 기준으로 적합한 것은?",
+      "options": [
+        "세탁 후 햇볕에 말려 재사용한다.",
+        "오염이 심하지 않으면 2~3회 재사용한다.",
+        "반드시 소독하여 보관해야 한다.",
+        "세탁만 하면 소독은 생략할 수 있다."
+      ],
+      "answerIndex": 2,
+      "explanation": "공용 타월은 세탁 후 반드시 소독하여 보관해야 한다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용 기구 중 열탕 소독을 할 때 가장 적합한 기구는?",
+      "options": [
+        "플라스틱 빗",
+        "금속성 가위",
+        "스펀지류",
+        "전기 기구"
+      ],
+      "answerIndex": 1,
+      "explanation": "금속성 가위는 열탕 소독에 적합한 재질이다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업 위생교육의 주기는?",
+      "options": [
+        "매년 1회",
+        "2년마다 1회",
+        "3년마다 1회",
+        "5년마다 1회"
+      ],
+      "answerIndex": 0,
+      "explanation": "미용업 위생교육은 매년 1회 이수해야 한다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업 등 공중위생영업을 하려는 자가 관할 시장·군수·구청장에게 이행해야 하는 절차는?",
+      "options": [
+        "영업 허가를 받는다",
+        "영업 신고를 한다",
+        "영업 등록을 한다",
+        "영업 인가를 받는다"
+      ],
+      "answerIndex": 1,
+      "explanation": "공중위생영업(미용업 등)을 하려는 자는 보건복지부령으로 정하는 시설 및 설비를 갖추고 시장·군수·구청장에게 신고하여야 한다(허가·등록·인가가 아닌 신고제).",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "「공중위생관리법」의 목적과 거리가 먼 것은?",
+      "options": [
+        "공중위생영업의 위생관리 수준 향상",
+        "공중의 건강 증진에 기여",
+        "미용업 종사자의 복리 증진",
+        "질병 예방 및 쾌적한 환경 조성"
+      ],
+      "answerIndex": 2,
+      "explanation": "미용업 종사자의 복리 증진은 공중위생관리법의 목적이 아니다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업소에서 소독을 실시해야 하는 대상이 아닌 것은?",
+      "options": [
+        "고객에게 직접 사용하는 기구",
+        "시술 후 사용한 타월",
+        "미용사가 착용한 작업복",
+        "영업장 내부의 바닥 및 벽"
+      ],
+      "answerIndex": 3,
+      "explanation": "영업장 바닥·벽은 소독 기준 대상 기구·용품에 해당하지 않는다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용사가 반드시 지켜야 할 개인 위생 관리로 가장 적절한 것은?",
+      "options": [
+        "항상 밝은색 옷을 입는다.",
+        "시술 전후 손 소독을 철저히 한다.",
+        "시술 중에는 고객과 대화하지 않는다.",
+        "피로할 때는 휴식을 충분히 취한다."
+      ],
+      "answerIndex": 1,
+      "explanation": "시술 전후 손 소독은 교차 감염을 막는 기본 개인위생 수칙이다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "공중보건학의 최종 목표는?",
+      "options": [
+        "질병 치료 기술 개발",
+        "환경 위생 개선",
+        "국민 보건 향상과 수명 연장",
+        "개인 위생 관리 교육"
+      ],
+      "answerIndex": 2,
+      "explanation": "공중보건학의 최종 목표는 국민 보건 향상과 수명 연장이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "다음 중 소독의 목적으로 가장 적합한 것은?",
+      "options": [
+        "모든 미생물을 완전히 제거하는 것",
+        "병원성 미생물을 사멸시키거나 활동을 억제하는 것",
+        "인체에 무해한 상태로 만드는 것",
+        "소독 대상물의 외관을 깨끗하게 하는 것"
+      ],
+      "answerIndex": 1,
+      "explanation": "소독은 병원성 미생물을 사멸시키거나 활동을 억제하는 것이 목적이다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "전염병의 3대 요인에 해당하지 않는 것은?",
+      "options": [
+        "병원체",
+        "숙주",
+        "환경",
+        "매개체 (vector)"
+      ],
+      "answerIndex": 3,
+      "explanation": "전염병 발생의 3대 요인은 병원체, 숙주, 환경이며 매개체는 별도 요소이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "자외선 소독법에 대한 설명으로 옳은 것은?",
+      "options": [
+        "투과력이 강하여 그늘진 곳도 소독 효과가 높다.",
+        "소독 시간이 짧고 경제적이며 간편하다.",
+        "포자형성균, 결핵균 등에도 효과가 우수하다.",
+        "플라스틱, 고무 제품의 소독에 가장 적합하다."
+      ],
+      "answerIndex": 1,
+      "explanation": "자외선 소독은 간편하고 경제적이지만 투과력이 약해 그림자 부분은 소독되지 않는다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업소에서 가장 흔하게 사용하는 소독제인 역성 비누(염화벤잘코늄)의 특징이 아닌 것은?",
+      "options": [
+        "살균력이 강하며 독성이 약하다.",
+        "금속 부식을 일으키지 않는다.",
+        "세정 작용이 있어 비누 대용으로도 사용된다.",
+        "결핵균, 아포(포자) 등에 대한 살균력이 강하다."
+      ],
+      "answerIndex": 3,
+      "explanation": "역성비누는 결핵균이나 아포에 대한 살균력은 약한 편이다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "다음 중 법정 감염병이 아닌 것은?",
+      "options": [
+        "에이즈 (AIDS)",
+        "인플루엔자 (독감)",
+        "콜레라",
+        "장티푸스"
+      ],
+      "answerIndex": 1,
+      "explanation": "일반 인플루엔자(독감)는 법정 감염병 분류상 특별 신고 대상이 아니다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "수질 오염의 지표가 되는 미생물은?",
+      "options": [
+        "대장균",
+        "포도상구균",
+        "녹농균",
+        "효모"
+      ],
+      "answerIndex": 0,
+      "explanation": "대장균은 분변 오염 여부를 나타내는 수질 오염 지표 미생물이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "소독제 사용 시 주의사항으로 틀린 것은?",
+      "options": [
+        "유효 농도를 지켜 사용한다.",
+        "여러 종류의 소독제를 혼합하여 사용하면 효과가 증대된다.",
+        "금속 기구 소독 후에는 부식을 방지하기 위해 건조시킨다.",
+        "소독제의 유효기간을 확인하고 사용한다."
+      ],
+      "answerIndex": 1,
+      "explanation": "소독제를 혼합하면 오히려 효과가 감소하거나 유해가스가 발생할 수 있어 혼합 사용은 금지된다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "피부에 대한 소독 시 가장 적합한 소독제는?",
+      "options": [
+        "승홍 (염화수은)",
+        "크레졸",
+        "알코올 (에탄올)",
+        "석탄산"
+      ],
+      "answerIndex": 2,
+      "explanation": "피부 소독에는 자극이 적고 휘발성이 있는 알코올(에탄올)이 적합하다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "환경 오염 중 미세먼지(PM10, PM2.5)가 인체에 미치는 주된 악영향은?",
+      "options": [
+        "소화기계 질환 유발",
+        "시력 저하",
+        "호흡기 및 심혈관계 질환 악화",
+        "관절염 유발"
+      ],
+      "answerIndex": 2,
+      "explanation": "미세먼지는 호흡기 및 심혈관계 질환을 악화시키는 주요 원인이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "전염병 예방을 위한 가장 기본적인 수단은?",
+      "options": [
+        "충분한 휴식",
+        "면역력 강화",
+        "손 씻기",
+        "실내 온도 조절"
+      ],
+      "answerIndex": 2,
+      "explanation": "손 씻기는 전염병 예방의 가장 기본적이고 효과적인 수단이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "멸균(Sterilization)의 정의로 옳은 것은?",
+      "options": [
+        "병원성 미생물을 사멸시키는 것",
+        "아포(포자)를 포함한 모든 미생물을 완전히 제거하거나 사멸시키는 것",
+        "생활 환경을 청결하게 유지하는 것",
+        "미생물의 성장을 일시적으로 억제하는 것"
+      ],
+      "answerIndex": 1,
+      "explanation": "멸균은 아포를 포함한 모든 미생물을 완전히 사멸시키는 것을 의미한다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "skin",
+      "question": "피부의 가장 바깥층이며 미용 시술과 가장 밀접한 관련이 있는 층은?",
+      "options": [
+        "진피",
+        "피하조직",
+        "표피",
+        "기저층"
+      ],
+      "answerIndex": 2,
+      "explanation": "표피는 피부의 가장 바깥층으로 미용 시술과 직접 맞닿는 층이다.",
+      "subCategory": "skin-1"
+    },
+    {
+      "category": "theory",
+      "question": "모발의 주성분을 이루는 단백질은?",
+      "options": [
+        "콜라겐 (Collagen)",
+        "엘라스틴 (Elastin)",
+        "케라틴 (Keratin)",
+        "멜라닌 (Melanin)"
+      ],
+      "answerIndex": 2,
+      "explanation": "모발의 주성분은 케라틴이라는 경단백질이다.",
+      "subCategory": "theory-5"
+    },
+    {
+      "category": "theory",
+      "question": "모발의 성장 단계 중 가장 긴 기간을 차지하며 모모세포의 활동이 활발한 단계는?",
+      "options": [
+        "성장기 (Anagen)",
+        "퇴행기 (Catagen)",
+        "휴지기 (Telogen)",
+        "발생기 (Germinal stage)"
+      ],
+      "answerIndex": 0,
+      "explanation": "성장기(Anagen)는 모발 주기 중 가장 길게 지속되며 모발이 활발히 자란다.",
+      "subCategory": "theory-5"
+    },
+    {
+      "category": "skin",
+      "question": "피부색을 결정하는 주요 색소이며, 자외선으로부터 피부를 보호하는 기능이 있는 것은?",
+      "options": [
+        "카로틴",
+        "헤모글로빈",
+        "멜라닌",
+        "엘라스틴"
+      ],
+      "answerIndex": 2,
+      "explanation": "멜라닌은 피부색을 결정하고 자외선으로부터 피부를 보호하는 색소이다.",
+      "subCategory": "skin-4"
+    },
+    {
+      "category": "skin",
+      "question": "피부의 부속 기관이 아닌 것은?",
+      "options": [
+        "털 (모발)",
+        "손톱",
+        "땀샘",
+        "근육"
+      ],
+      "answerIndex": 3,
+      "explanation": "근육은 피부 부속기관이 아니라 별도의 신체 기관이다.",
+      "subCategory": "skin-1"
+    },
+    {
+      "category": "theory",
+      "question": "인체의 모든 활동에 필요한 에너지를 생성하는 세포 내 소기관은?",
+      "options": [
+        "핵 (Nucleus)",
+        "미토콘드리아 (Mitochondria)",
+        "리보솜 (Ribosome)",
+        "세포막 (Cell membrane)"
+      ],
+      "answerIndex": 1,
+      "explanation": "미토콘드리아는 세포 호흡을 통해 에너지(ATP)를 생성하는 세포 소기관이다.",
+      "subCategory": "theory-11"
+    },
+    {
+      "category": "theory",
+      "question": "모발의 가장 바깥층에 해당하며, 모발의 광택과 보호 기능을 담당하는 층은?",
+      "options": [
+        "모수질 (Medulla)",
+        "모피질 (Cortex)",
+        "모표피 (Cuticle)",
+        "모낭 (Hair follicle)"
+      ],
+      "answerIndex": 2,
+      "explanation": "모표피(큐티클)는 모발 최외곽에서 광택과 보호 기능을 담당한다.",
+      "subCategory": "theory-5"
+    },
+    {
+      "category": "skin",
+      "question": "피부가 수행하는 주요 기능이 아닌 것은?",
+      "options": [
+        "보호 작용",
+        "체온 조절 작용",
+        "소화 작용",
+        "감각 작용"
+      ],
+      "answerIndex": 2,
+      "explanation": "소화 작용은 소화기관의 기능이며 피부의 기능이 아니다.",
+      "subCategory": "skin-8"
+    },
+    {
+      "category": "theory",
+      "question": "인체의 생명 유지에 필수적인 호흡, 순환, 소화 등의 기능을 조절하는 중추는?",
+      "options": [
+        "대뇌",
+        "소뇌",
+        "척수",
+        "연수"
+      ],
+      "answerIndex": 3,
+      "explanation": "연수는 호흡, 순환, 소화 등 생명 유지에 필수적인 기능을 조절하는 중추이다.",
+      "subCategory": "theory-11"
+    },
+    {
+      "category": "theory",
+      "question": "모발의 화학적 시술(펌, 염색) 시 가장 큰 영향을 미치는 모발의 결합은?",
+      "options": [
+        "수소 결합",
+        "이온 결합",
+        "펩타이드 결합",
+        "시스틴 결합 (S-S 결합)"
+      ],
+      "answerIndex": 3,
+      "explanation": "펌·염색 등 화학적 시술은 모발의 시스틴(S-S) 결합에 가장 큰 영향을 미친다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "skin",
+      "question": "진피층을 구성하는 주요 섬유 단백질로, 피부의 탄력에 관여하는 것은?",
+      "options": [
+        "멜라닌",
+        "콜라겐과 엘라스틴",
+        "케라틴",
+        "땀샘"
+      ],
+      "answerIndex": 1,
+      "explanation": "콜라겐과 엘라스틴은 진피의 주요 섬유 단백질로 피부 탄력을 담당한다.",
+      "subCategory": "skin-1"
+    },
+    {
+      "category": "skin",
+      "question": "다음 중 지성 피부의 특징으로 가장 적절한 것은?",
+      "options": [
+        "피부가 얇고 예민하다.",
+        "모공이 작고 건조하며 각질이 잘 생긴다.",
+        "피지 분비가 왕성하고 모공이 넓으며 번들거린다.",
+        "주름이 잘 생기며 탄력이 떨어진다."
+      ],
+      "answerIndex": 2,
+      "explanation": "지성 피부는 피지 분비가 왕성하고 모공이 넓으며 번들거리는 특징이 있다.",
+      "subCategory": "skin-2"
+    },
+    {
+      "category": "cosmetics",
+      "question": "화장품법상 화장품의 정의로 옳은 것은?",
+      "options": [
+        "인체를 청결 또는 미화하여 매력을 더하고 용모를 밝게 변화시키기 위해 사용되는 물품",
+        "인체의 질병을 진단, 치료, 경감, 처치 또는 예방할 목적으로 사용되는 물품",
+        "인체의 구조 또는 기능에 약리학적 영향을 줄 목적으로 사용되는 물품",
+        "의약품과 화장품의 중간적 성격을 갖는 제품"
+      ],
+      "answerIndex": 0,
+      "explanation": "화장품법상 화장품은 인체를 청결·미화하여 용모를 밝게 변화시키기 위한 물품으로 정의된다.",
+      "subCategory": "cosmetics-1"
+    },
+    {
+      "category": "cosmetics",
+      "question": "다음 중 유화제의 기능으로 가장 적합한 것은?",
+      "options": [
+        "화장품의 산화를 방지한다.",
+        "물과 기름 성분을 안정적으로 섞이게 한다.",
+        "화장품의 색상과 향을 부여한다.",
+        "피부에 보습 효과를 제공한다."
+      ],
+      "answerIndex": 1,
+      "explanation": "유화제(계면활성제)는 물과 기름을 안정적으로 섞이게 하는 기능을 한다.",
+      "subCategory": "cosmetics-2"
+    },
+    {
+      "category": "cosmetics",
+      "question": "자외선 차단제의 성분 중 물리적 차단제에 해당하는 것은?",
+      "options": [
+        "옥시벤존 (Oxybenzone)",
+        "이산화티타늄 (Titanium Dioxide)",
+        "에칠헥실메톡시신나메이트",
+        "아보벤존 (Avobenzone)"
+      ],
+      "answerIndex": 1,
+      "explanation": "이산화티타늄은 자외선을 반사·산란시키는 물리적 차단제 성분이다.",
+      "subCategory": "cosmetics-5"
+    },
+    {
+      "category": "cosmetics",
+      "question": "모발용 화장품의 주성분으로 모발의 손상을 예방하고 정전기를 방지하는 데 효과적인 것은?",
+      "options": [
+        "계면활성제",
+        "오일 성분",
+        "양이온 폴리머 (4급 암모늄염)",
+        "보습제 (Humectant)"
+      ],
+      "answerIndex": 2,
+      "explanation": "양이온 폴리머(4급 암모늄염)는 모발에 흡착되어 정전기 방지와 손상 예방에 효과적이다.",
+      "subCategory": "cosmetics-4"
+    },
+    {
+      "category": "cosmetics",
+      "question": "화장품에 사용되는 보존제의 주된 목적은?",
+      "options": [
+        "피부에 영양을 공급한다.",
+        "물과 기름의 분리를 막는다.",
+        "미생물의 증식을 억제하여 변질을 막는다.",
+        "자외선을 차단한다."
+      ],
+      "answerIndex": 2,
+      "explanation": "보존제는 미생물 증식을 억제하여 제품 변질을 막는 방부 역할을 한다.",
+      "subCategory": "cosmetics-2"
+    },
+    {
+      "category": "cosmetics",
+      "question": "다음 중 화장품의 유성 원료(오일 성분)의 역할이 아닌 것은?",
+      "options": [
+        "피부에 윤기를 부여한다.",
+        "수분 증발을 막아 보습 효과를 높인다.",
+        "피부의 흡수를 도와 약리 작용을 한다.",
+        "피부에 부드러운 사용감을 제공한다."
+      ],
+      "answerIndex": 2,
+      "explanation": "화장품은 약리 작용을 목적으로 하지 않으므로 이는 유성 원료의 역할이 아니다.",
+      "subCategory": "cosmetics-2"
+    },
+    {
+      "category": "cosmetics",
+      "question": "샴푸의 주성분으로, 거품 형성 및 세정 작용을 하는 것은?",
+      "options": [
+        "양쪽성 계면활성제",
+        "음이온 계면활성제",
+        "비이온 계면활성제",
+        "양이온 계면활성제"
+      ],
+      "answerIndex": 1,
+      "explanation": "음이온 계면활성제는 세정력과 기포력이 뛰어나 샴푸의 주성분으로 쓰인다.",
+      "subCategory": "cosmetics-4"
+    },
+    {
+      "category": "cosmetics",
+      "question": "화장품 성분 중 '레티놀'이 주로 관여하는 효능은?",
+      "options": [
+        "미백 효과",
+        "주름 개선",
+        "자외선 차단",
+        "소염 진정"
+      ],
+      "answerIndex": 1,
+      "explanation": "레티놀은 대표적인 주름 개선 기능성 성분이다.",
+      "subCategory": "cosmetics-5"
+    },
+    {
+      "category": "cosmetics",
+      "question": "화장품을 보관할 때 가장 적절한 방법은?",
+      "options": [
+        "햇볕이 잘 드는 곳에 보관한다.",
+        "고온 다습한 곳에 보관한다.",
+        "서늘하고 건조한 곳에 보관한다.",
+        "사용 후 뚜껑을 열어 놓는다."
+      ],
+      "answerIndex": 2,
+      "explanation": "화장품은 변질을 막기 위해 서늘하고 건조한 곳에 보관해야 한다.",
+      "subCategory": "cosmetics-1"
+    },
+    {
+      "category": "cosmetics",
+      "question": "화장품 성분 중 수분을 끌어당겨 피부에 공급하는 보습제로 사용되는 것은?",
+      "options": [
+        "실리콘 오일",
+        "글리세린",
+        "미네랄 오일",
+        "왁스"
+      ],
+      "answerIndex": 1,
+      "explanation": "글리세린은 대표적인 수용성 보습 성분이다.",
+      "subCategory": "cosmetics-2"
+    },
+    {
+      "category": "cosmetics",
+      "question": "다음 중 모발 염색제에서 모발 내부의 멜라닌 색소를 파괴하여 염료가 착색되게 돕는 성분은?",
+      "options": [
+        "산화 염료",
+        "알칼리제 (암모니아)",
+        "산화제 (과산화수소)",
+        "중화제"
+      ],
+      "answerIndex": 2,
+      "explanation": "산화제(과산화수소)는 멜라닌 색소를 분해하고 염료 발색을 돕는다.",
+      "subCategory": "cosmetics-4"
+    },
+    {
+      "category": "cosmetics",
+      "question": "화장품을 구입할 때 반드시 확인해야 할 사항이 아닌 것은?",
+      "options": [
+        "제조번호",
+        "사용기한 또는 개봉 후 사용기한",
+        "전성분 표시",
+        "제조사 대표의 신상 정보"
+      ],
+      "answerIndex": 3,
+      "explanation": "제조사 대표의 신상 정보는 화장품 구입 확인 사항이 아니다.",
+      "subCategory": "cosmetics-1"
+    },
+    {
+      "category": "theory",
+      "question": "샴푸 후 모발의 pH를 조절하고 큐티클을 정돈하여 모발을 부드럽게 하는 제품은?",
+      "options": [
+        "헤어 왁스",
+        "헤어 토닉",
+        "린스 또는 컨디셔너",
+        "헤어 무스"
+      ],
+      "answerIndex": 2,
+      "explanation": "린스·컨디셔너는 pH를 조절하고 큐티클을 정돈해 모발을 부드럽게 한다.",
+      "subCategory": "theory-4"
+    },
+    {
+      "category": "theory",
+      "question": "퍼머넌트 웨이브 시술 시 제1액(환원제)의 주된 역할은?",
+      "options": [
+        "모발을 산화시켜 웨이브를 고정한다.",
+        "모발의 멜라닌 색소를 탈색한다.",
+        "모발의 시스틴 결합(S-S 결합)을 절단한다.",
+        "모발의 수분을 공급하여 건조를 막는다."
+      ],
+      "answerIndex": 2,
+      "explanation": "1제(환원제)는 시스틴 결합을 절단해 웨이브를 형성할 수 있게 한다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "theory",
+      "question": "아이론을 사용하여 모발에 인공적인 웨이브를 만드는 시술을 무엇이라고 하는가?",
+      "options": [
+        "콜드 웨이브 (Cold Wave)",
+        "핑거 웨이브 (Finger Wave)",
+        "셋팅 펌 (Setting Perm)",
+        "드라이 아이론 컬 (Thermal Styling)"
+      ],
+      "answerIndex": 3,
+      "explanation": "아이론으로 열을 가해 웨이브를 만드는 것은 드라이 아이론 컬(열펌 스타일링)이다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "theory",
+      "question": "커트 기법 중 두발의 길이를 균일하게 하여 무게감을 주며, 단발머리 등에 주로 사용되는 형태는?",
+      "options": [
+        "레이어 커트 (Layer Cut)",
+        "그라데이션 커트 (Gradation Cut)",
+        "이퀄 커트 (Equal Cut)",
+        "원랭스 커트 (One-Length Cut)"
+      ],
+      "answerIndex": 3,
+      "explanation": "원랭스 커트는 모발 길이를 균일하게 하여 무게감을 주는 대표적 단발 형태이다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "염색 시술 시, 염색약의 색상이 두피의 열에 의해 더 밝게 발색되는 현상을 무엇이라고 하는가?",
+      "options": [
+        "퇴색 (Fading)",
+        "염색착오 (Color mistake)",
+        "리프트 (Lift)",
+        "보색 효과 (Complementary effect)"
+      ],
+      "answerIndex": 2,
+      "explanation": "두피열로 인해 모근 부분이 더 밝게 발색되는 현상을 리프트라 한다.",
+      "subCategory": "theory-9"
+    },
+    {
+      "category": "theory",
+      "question": "얼굴형이 긴 고객에게 적합한 헤어 스타일 연출 방법은?",
+      "options": [
+        "정수리 부분의 볼륨을 높이고 턱선을 드러낸다.",
+        "앞머리를 길게 하여 얼굴을 더 길어 보이게 한다.",
+        "옆머리에 볼륨을 주어 가로폭을 넓게 보이게 한다.",
+        "모발 전체를 뒤로 넘겨 얼굴형을 강조한다."
+      ],
+      "answerIndex": 2,
+      "explanation": "긴 얼굴형은 옆머리에 볼륨을 주어 가로 폭을 넓어 보이게 하는 것이 효과적이다.",
+      "subCategory": "theory-8"
+    },
+    {
+      "category": "theory",
+      "question": "네일 케어 중 큐티클을 제거하는 데 사용되는 도구는?",
+      "options": [
+        "네일 파일 (Nail File)",
+        "샌딩 블록 (Sanding Block)",
+        "니퍼 (Nipper)",
+        "푸셔 (Pusher)"
+      ],
+      "answerIndex": 2,
+      "explanation": "니퍼는 큐티클을 잘라내는 데 사용하는 도구이다.",
+      "subCategory": "theory-10"
+    },
+    {
+      "category": "theory",
+      "question": "모발을 빗질하는 각도(Elevation)를 0도로 하여 커트하는 기본 형태는?",
+      "options": [
+        "하이 레이어 (High Layer)",
+        "로우 그라데이션 (Low Gradation)",
+        "원랭스 (One-Length)",
+        "스퀘어 레이어 (Square Layer)"
+      ],
+      "answerIndex": 2,
+      "explanation": "0도 각도로 커트하는 기본 형태가 원랭스이다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "퍼머넌트 웨이브 제2액(산화제)의 주된 역할은?",
+      "options": [
+        "모발을 연화시킨다.",
+        "시스틴 결합을 절단한다.",
+        "새로운 시스틴 결합을 재결합하여 웨이브를 고정한다.",
+        "모발에 단백질을 공급한다."
+      ],
+      "answerIndex": 2,
+      "explanation": "2액(산화제)은 끊어진 시스틴 결합을 재결합시켜 웨이브를 고정한다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "theory",
+      "question": "고객의 얼굴형 중 가장 이상적이라고 평가되는 얼굴형은?",
+      "options": [
+        "긴 얼굴형",
+        "둥근 얼굴형",
+        "역삼각형 얼굴형",
+        "달걀형 (Oval Shape)"
+      ],
+      "answerIndex": 3,
+      "explanation": "달걀형(Oval)은 미용학에서 가장 이상적인 얼굴형으로 평가된다.",
+      "subCategory": "theory-10"
+    },
+    {
+      "category": "theory",
+      "question": "미용 시술 후 고객에게 스타일링 제품을 바르는 순서로 가장 적절한 것은?",
+      "options": [
+        "샴푸 → 건조 → 커트 → 린스",
+        "커트 → 드라이 → 펌 → 염색",
+        "샴푸 → 린스 → 커트 → 스타일링",
+        "커트 → 펌 → 드라이 → 중화"
+      ],
+      "answerIndex": 2,
+      "explanation": "일반적인 시술 순서는 샴푸 → 린스 → 커트 → 스타일링이다.",
+      "subCategory": "theory-1"
+    },
+    {
+      "category": "theory",
+      "question": "두상의 측면과 후두부 경계선에서 모발을 수평으로 나누는 기준선은?",
+      "options": [
+        "가이드 라인 (Guide Line)",
+        "패널 (Panel)",
+        "이어 투 이어 라인 (Ear to Ear Line)",
+        "네이프 라인 (Nape Line)"
+      ],
+      "answerIndex": 2,
+      "explanation": "이어 투 이어 라인은 귀에서 귀를 잇는 두상 구획 기준선이다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "다음 중 미용의 시술 진행 과정을 순서대로 옳게 나열한 것은?",
+      "options": [
+        "소재 - 구상 - 제작 - 보정",
+        "구상 - 소재 - 제작 - 보정",
+        "소재 - 제작 - 구상 - 보정",
+        "구상 - 제작 - 소재 - 보정"
+      ],
+      "answerIndex": 0,
+      "explanation": "미용의 시술 진행 과정은 소재의 확인, 구상(디자인 설계), 제작(시술), 보정(마무리 수정)의 순서로 이루어진다.",
+      "subCategory": "theory-1"
+    },
+    {
+      "category": "theory",
+      "question": "미용 시술 시 지켜야 할 작업자세에 대한 설명으로 옳은 것은?",
+      "options": [
+        "시술 대상물은 시술자의 허리 높이에 오도록 한다.",
+        "눈과 시술 부위 사이의 명시거리는 25~30cm를 유지한다.",
+        "되도록 앉은 자세로 시술하여 피로를 줄인다.",
+        "작업 대상은 시술자의 눈높이보다 높게 위치시킨다."
+      ],
+      "answerIndex": 1,
+      "explanation": "미용 시술 시 작업 대상은 심장 높이 정도에 오도록 하고, 눈과 시술 부위 사이의 명시거리는 25~30cm를 유지하며 선 자세로 시술하는 것이 원칙이다.",
+      "subCategory": "theory-1"
+    },
+    {
+      "category": "theory",
+      "question": "미용이 지니는 제한적 조건에 해당하지 않는 것은?",
+      "options": [
+        "의사표현의 제한",
+        "시간적 제한",
+        "소재의 무한한 선택 가능성",
+        "미적효과의 고려"
+      ],
+      "answerIndex": 2,
+      "explanation": "미용의 제한 조건은 의사표현의 제한, 소재선정의 제한, 시간적 제한, 미적효과의 고려이며, 소재는 이미 정해진 손님의 신체 조건을 그대로 수용해야 하므로 무한한 선택이 불가능하다.",
+      "subCategory": "theory-1"
+    },
+    {
+      "category": "theory",
+      "question": "다음 중 미용사의 3대 사명에 해당하지 않는 것은?",
+      "options": [
+        "개성미 연출",
+        "시대풍조의 건전한 지도",
+        "공중위생상 안전유지",
+        "최신 유행의 무조건적 추종"
+      ],
+      "answerIndex": 3,
+      "explanation": "미용사의 3대 사명은 개성미 연출, 시대풍조의 건전한 지도, 공중위생상 안전유지이며 유행을 무조건적으로 추종하는 것은 사명에 해당하지 않는다.",
+      "subCategory": "theory-1"
+    },
+    {
+      "category": "theory",
+      "question": "삼한시대에 머리 모양으로 신분을 구분한 방식에 대한 설명으로 옳은 것은?",
+      "options": [
+        "노예는 삭발을 하였다.",
+        "일반인은 관모를 착용하였다.",
+        "수장급은 상투를 틀었다.",
+        "신분에 관계없이 동일한 머리형을 하였다."
+      ],
+      "answerIndex": 0,
+      "explanation": "삼한시대에는 수장급이 관모를 쓰고, 노예는 삭발을 하였으며, 일반인은 상투를 틀어 신분을 구분하였다.",
+      "subCategory": "theory-2"
+    },
+    {
+      "category": "theory",
+      "question": "1933년 우리나라 최초의 미용실인 '화신미용원'을 개설하여 근대 미용업의 효시가 된 인물은?",
+      "options": [
+        "오엽주",
+        "김활란",
+        "이숙종",
+        "캐더린 오브 메디시스"
+      ],
+      "answerIndex": 0,
+      "explanation": "오엽주는 1933년 화신미용원을 개설하여 우리나라 근대 미용업의 효시가 되었다.",
+      "subCategory": "theory-2"
+    },
+    {
+      "category": "theory",
+      "question": "근대 신여성 중 단발머리 스타일을 유행시킨 인물은?",
+      "options": [
+        "오엽주",
+        "김활란",
+        "이숙종",
+        "찰스 네슬러"
+      ],
+      "answerIndex": 1,
+      "explanation": "김활란은 근대에 단발머리를 유행시킨 신여성으로 꼽힌다.",
+      "subCategory": "theory-2"
+    },
+    {
+      "category": "theory",
+      "question": "고려시대 화장법에 대한 설명으로 옳은 것은?",
+      "options": [
+        "일반 여염집 여성은 짙은 화장인 분대화장을 하였다.",
+        "기생 등의 계층은 짙은 화장인 분대화장을 하였다.",
+        "조선시대에 최초로 도입된 화장법이다.",
+        "신라시대부터 이어진 화장법으로 고려시대에는 사용되지 않았다."
+      ],
+      "answerIndex": 1,
+      "explanation": "고려시대에는 기생 등 특수 계층이 짙은 화장인 분대화장을, 일반 여염집 여성은 옅은 화장인 비분대화장을 하였다.",
+      "subCategory": "theory-2"
+    },
+    {
+      "category": "theory",
+      "question": "미용의 발생지로 알려져 있으며, 기원전 1500년경부터 가발과 헤너 염색 기술이 발달했던 나라는?",
+      "options": [
+        "프랑스",
+        "그리스",
+        "이집트",
+        "로마"
+      ],
+      "answerIndex": 2,
+      "explanation": "이집트는 기원전 1500년경부터 가발과 헤너 염색 기술이 발달하여 미용의 발생지로 평가된다.",
+      "subCategory": "theory-2"
+    },
+    {
+      "category": "theory",
+      "question": "1905년 스파이럴식 와인딩 기법으로 세계 최초의 기계식 퍼머넌트 웨이브를 완성한 인물은?",
+      "options": [
+        "마샬 그라또우",
+        "조셉 메이어",
+        "찰스 네슬러",
+        "스피그먼"
+      ],
+      "answerIndex": 2,
+      "explanation": "찰스 네슬러는 1905년 스파이럴식 와인딩 기법으로 세계 최초의 기계식 퍼머넌트 웨이브를 완성하였다.",
+      "subCategory": "theory-2"
+    },
+    {
+      "category": "theory",
+      "question": "1936년 화학약품만으로 웨이브를 형성하는 콜드웨이브(2욕법)를 개발하여 열을 가하지 않는 오늘날 콜드 퍼머넌트의 원형을 완성한 인물은?",
+      "options": [
+        "마샬 그라또우",
+        "찰스 네슬러",
+        "조셉 메이어",
+        "스피그먼"
+      ],
+      "answerIndex": 3,
+      "explanation": "영국의 스피그먼(J.B. Speakman)은 1936년 화학약품만으로 웨이브를 만드는 콜드웨이브를 개발하여 오늘날 콜드 퍼머넌트의 원형을 완성하였다.",
+      "subCategory": "theory-2"
+    },
+    {
+      "category": "theory",
+      "question": "현대 미용의 발생지로 평가되며, 캐더린 오브 메디시스 여왕이 미용의 기초를 닦고 최초의 남자 결발사 샴페인이 활동했던 나라는?",
+      "options": [
+        "이집트",
+        "영국",
+        "중국",
+        "프랑스"
+      ],
+      "answerIndex": 3,
+      "explanation": "프랑스는 캐더린 오브 메디시스 여왕이 미용의 기초를 닦고 최초의 남자 결발사 샴페인이 활동한 현대 미용의 발생지로 평가된다.",
+      "subCategory": "theory-2"
+    },
+    {
+      "category": "theory",
+      "question": "미용 가위의 소독 및 관리에 대한 설명으로 옳은 것은?",
+      "options": [
+        "자비소독이나 열소독은 날을 무디게 하므로 피해야 한다.",
+        "자비소독을 하여 날을 예리하게 유지한다.",
+        "증기소독이 가위 관리에 가장 적합하다.",
+        "가위는 소독이 필요하지 않은 도구이다."
+      ],
+      "answerIndex": 0,
+      "explanation": "가위는 자비소독이나 열소독을 하면 날이 상하고 무디어지므로 절대 피해야 한다.",
+      "subCategory": "theory-3"
+    },
+    {
+      "category": "theory",
+      "question": "우드램프를 이용한 피부 상태 판별 시 오렌지색으로 나타나는 경우는?",
+      "options": [
+        "여드름·피지가 있는 경우",
+        "색소침착이 있는 경우",
+        "백색 여드름이 있는 경우",
+        "정상 피부인 경우"
+      ],
+      "answerIndex": 0,
+      "explanation": "우드램프 판별 시 오렌지색은 여드름·피지, 황색은 백색 여드름, 갈색·암갈색은 색소침착을 나타낸다.",
+      "subCategory": "theory-3"
+    },
+    {
+      "category": "theory",
+      "question": "미용 가위 중 모발의 숱(양)을 감소시키는 데 특화된 전용 가위는?",
+      "options": [
+        "커팅가위",
+        "틴닝가위",
+        "착강가위",
+        "전강가위"
+      ],
+      "answerIndex": 1,
+      "explanation": "틴닝가위는 모발의 양(숱)만을 감소시키는 데 사용하는 전용 가위이다.",
+      "subCategory": "theory-3"
+    },
+    {
+      "category": "theory",
+      "question": "레이저(면도날형 커트기) 중 안전장치가 있어 초보자가 사용하기에 적합한 것은?",
+      "options": [
+        "일상용 레이저",
+        "세이핑 레이저",
+        "전강 레이저",
+        "착강 레이저"
+      ],
+      "answerIndex": 1,
+      "explanation": "세이핑 레이저는 안전장치가 있어 초보자용으로 적합하며, 일상용 레이저는 안전장치가 없는 전문가용이다.",
+      "subCategory": "theory-3"
+    },
+    {
+      "category": "theory",
+      "question": "감응전류를 이용해 잔주름을 제거하는 미안기기로, 안면홍조가 있는 고객에게는 시술이 금기인 것은?",
+      "options": [
+        "갈바닉 전류 미안기",
+        "테슬러 전류(고주파) 미안기",
+        "패더릭 전류 미안기",
+        "적외선등"
+      ],
+      "answerIndex": 2,
+      "explanation": "패더릭 전류 미안기는 감응전류로 잔주름을 제거하나 안면홍조가 있는 고객에게는 금기이다.",
+      "subCategory": "theory-3"
+    },
+    {
+      "category": "theory",
+      "question": "자외선등에 대한 설명으로 옳은 것은?",
+      "options": [
+        "피부 침투력이 약 2mm로 가장 깊어 온열 효과가 크다.",
+        "60cm 거리에서 5~7분간 조사하는 것이 일반적 기준이다.",
+        "열을 발생시켜 혈액순환을 촉진하는 것이 주된 목적이다.",
+        "살균 작용과 비타민D 생성을 돕지만 과도한 노출은 색소침착의 원인이 될 수 있다."
+      ],
+      "answerIndex": 3,
+      "explanation": "자외선등은 살균 작용과 비타민D 생성을 돕지만 과도하게 노출되면 멜라닌 생성이 촉진되어 색소침착의 원인이 될 수 있다. 침투력 2mm와 60cm 5~7분 조사는 적외선등의 특징이다.",
+      "subCategory": "theory-3"
+    },
+    {
+      "category": "theory",
+      "question": "물로 모발을 감기 어려운 환자나 임산부 등에게 적합하며, 물을 사용하지 않고 시술하는 샴푸 방식은?",
+      "options": [
+        "드라이 샴푸",
+        "플레인 샴푸",
+        "핫오일 샴푸",
+        "에그 샴푸"
+      ],
+      "answerIndex": 0,
+      "explanation": "드라이 샴푸는 물 없이 시술하는 방식으로 환자나 임산부처럼 물로 감기 어려운 경우에 적합하다.",
+      "subCategory": "theory-4"
+    },
+    {
+      "category": "theory",
+      "question": "일반적인 샴푸 시 두피 매니퓰레이션(마사지)의 진행 순서로 옳은 것은?",
+      "options": [
+        "후두부 → 두정부 → 측두부 → 전두부",
+        "전두부 → 측두부 → 두정부 → 후두부",
+        "두정부 → 전두부 → 후두부 → 측두부",
+        "측두부 → 후두부 → 전두부 → 두정부"
+      ],
+      "answerIndex": 1,
+      "explanation": "샴푸 시 두피 매니퓰레이션은 일반적으로 전두부 → 측두부 → 두정부 → 후두부의 순서로 진행한다.",
+      "subCategory": "theory-4"
+    },
+    {
+      "category": "theory",
+      "question": "퍼머넌트나 염색 시술 후 알칼리화된 모발을 산성으로 중화시키기 위해 사용하며 pH 3~4를 나타내는 린스는?",
+      "options": [
+        "플레인 린스",
+        "유성 린스",
+        "애시드(산성) 린스",
+        "크림 린스"
+      ],
+      "answerIndex": 2,
+      "explanation": "애시드(산성) 린스는 pH 3~4로 레몬 린스, 구연산 린스 등이 해당하며 시술 후 알칼리화된 모발을 중화하는 목적으로 사용된다.",
+      "subCategory": "theory-4"
+    },
+    {
+      "category": "theory",
+      "question": "샴푸와 린스에 사용되는 계면활성제의 특성에 대한 설명으로 옳은 것은?",
+      "options": [
+        "샴푸와 린스는 동일한 양이온 계면활성제를 사용한다.",
+        "샴푸는 양이온, 린스는 음이온 계면활성제를 사용한다.",
+        "샴푸는 음이온, 린스는 양이온 계면활성제를 사용하여 서로 반대 전하를 가진다.",
+        "샴푸와 린스 모두 비이온 계면활성제만 사용한다."
+      ],
+      "answerIndex": 2,
+      "explanation": "샴푸는 음이온 계면활성제, 린스는 양이온 계면활성제를 사용하며 반대 전하로 인해 모표피에 흡착되어 코팅 효과를 낸다.",
+      "subCategory": "theory-4"
+    },
+    {
+      "category": "theory",
+      "question": "모발과 두피에 오일을 도포한 후 시술하며, 건성모나 손상모의 관리에 적합한 스페셜 샴푸는?",
+      "options": [
+        "에그 샴푸",
+        "드라이 샴푸",
+        "플레인 샴푸",
+        "핫오일 샴푸"
+      ],
+      "answerIndex": 3,
+      "explanation": "핫오일 샴푸는 건성모나 손상모에 사용하는 스페셜 샴푸이다.",
+      "subCategory": "theory-4"
+    },
+    {
+      "category": "theory",
+      "question": "비듬이 많은 두피에 대해 비듬 제거와 살균을 목적으로 시행하는 스캘프 트리트먼트는?",
+      "options": [
+        "댄드러프 스캘프 트리트먼트",
+        "오일리 스캘프 트리트먼트",
+        "드라이 스캘프 트리트먼트",
+        "플레인 스캘프 트리트먼트"
+      ],
+      "answerIndex": 0,
+      "explanation": "댄드러프 스캘프 트리트먼트는 비듬성 두피에 비듬 제거 및 살균을 목적으로 시행한다.",
+      "subCategory": "theory-5"
+    },
+    {
+      "category": "theory",
+      "question": "모발 끝을 불로 그슬려 상한 부분을 정리하는 헤어트리트먼트 시술은?",
+      "options": [
+        "클리핑",
+        "신징",
+        "헤어 리컨디셔닝",
+        "헤어팩"
+      ],
+      "answerIndex": 1,
+      "explanation": "신징은 모발 끝을 태워 정리하는 헤어트리트먼트 시술이다.",
+      "subCategory": "theory-5"
+    },
+    {
+      "category": "theory",
+      "question": "헤어트리트먼트(팩)와 린스의 차이에 대한 설명으로 옳은 것은?",
+      "options": [
+        "린스는 모발 내부의 모피질까지 영양 성분을 침투시킨다.",
+        "트리트먼트는 모표피 표면만을 일시적으로 코팅한다.",
+        "트리트먼트는 모피질(내부)까지 영양 성분을 침투시켜 손상을 근본적으로 보강하지만, 린스는 표면 코팅에 그친다.",
+        "린스와 트리트먼트는 작용 원리와 효과가 완전히 동일하다."
+      ],
+      "answerIndex": 2,
+      "explanation": "트리트먼트·팩은 모발 내부의 모피질까지 영양 성분을 침투시켜 손상을 근본적으로 보강하는 반면, 린스는 모표피 표면만 코팅한다.",
+      "subCategory": "theory-5"
+    },
+    {
+      "category": "theory",
+      "question": "정상적인 모발이 잡아당겼을 때 늘어날 수 있는 신장률은 원래 길이의 대략 몇 배인가?",
+      "options": [
+        "약 0.5~0.8배",
+        "약 1.0~1.2배",
+        "약 2.5~3배",
+        "약 1.5~1.7배"
+      ],
+      "answerIndex": 3,
+      "explanation": "모발은 정상 상태에서 원래 길이의 약 1.5~1.7배까지 늘어나는 신장률을 갖는다.",
+      "subCategory": "theory-5"
+    },
+    {
+      "category": "theory",
+      "question": "모발 손상의 원인에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "급속 드라이의 과도한 열은 모발을 손상시킨다.",
+        "오버프로세싱은 펌·염색 약제의 방치 시간이 과도할 때 발생한다.",
+        "자외선에 장시간 노출되거나 해수(바닷물)에 노출되면 모발이 손상될 수 있다.",
+        "백코오밍(백브러싱)은 모표피 손상과 무관하며 모발 건강에 전혀 영향을 주지 않는다."
+      ],
+      "answerIndex": 3,
+      "explanation": "과도한 백코오밍·백브러싱은 역방향 빗질로 모표피(큐티클) 손상을 일으키는 대표적인 모발 손상 원인이다.",
+      "subCategory": "theory-5"
+    },
+    {
+      "category": "theory",
+      "question": "모발 끝의 2/3 이내를 가늘게 처리하여 가장 깊은 테이퍼링 효과를 내는 기법은?",
+      "options": [
+        "딥 테이퍼",
+        "노멀 테이퍼",
+        "앤드 테이퍼",
+        "트리밍"
+      ],
+      "answerIndex": 0,
+      "explanation": "딥 테이퍼는 모발 끝 2/3 이내를 가늘게 처리하는 가장 깊은 단계의 테이퍼링 기법이다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "젖은 모발 상태에서 주로 레이저를 사용하여 시술하는 커트 방식은?",
+      "options": [
+        "웨트커트",
+        "드라이커트",
+        "싱글링",
+        "트리밍"
+      ],
+      "answerIndex": 0,
+      "explanation": "웨트커트는 젖은 모발 상태에서 레이저를 사용해 시술하는 커트 방식이며, 드라이커트는 마른 모발에 가위(시저스)를 사용한다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "두상의 굴곡을 따라 모든 모발을 동일하게 90도로 들어 올려 커트함으로써 모든 부위의 길이가 균등해지는 레이어 기법은?",
+      "options": [
+        "인크리스 레이어",
+        "유니폼 레이어",
+        "그래쥬에이션",
+        "원랭스"
+      ],
+      "answerIndex": 1,
+      "explanation": "유니폼 레이어는 두상 전체를 90도로 동일하게 들어 커트하여 길이가 균등하고 무게감이 고르게 분산되는 형태이다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "원랭스 커트의 유형 중 앞쪽이 길고 뒤쪽이 짧아지는 전대각 라인을 갖는 것은?",
+      "options": [
+        "패러렐(이퀄 라인) 커트",
+        "스파니엘 커트",
+        "이사도라 커트",
+        "유니폼 레이어"
+      ],
+      "answerIndex": 1,
+      "explanation": "스파니엘 커트는 앞쪽이 길고 뒤쪽이 짧아지는 전대각 라인을 갖는 원랭스의 한 유형이다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "가위 날을 벌린 채 모발 표면을 미끄러지듯 훑어 질감을 가볍게 만드는 기법으로 슬라이싱이라고도 불리는 것은?",
+      "options": [
+        "틴닝",
+        "트리밍",
+        "슬리더링",
+        "싱글링"
+      ],
+      "answerIndex": 2,
+      "explanation": "슬리더링은 가위 날을 벌린 채 모발 표면을 미끄러지듯 훑어 질감을 가볍게 하는 기법으로 슬라이싱이라고도 한다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "짧은 모발에서 손가락으로 모발을 잡기 어려울 때, 빗으로 모발을 받쳐 들고 가위를 연속적으로 움직여 커트하는 장가위 기법은?",
+      "options": [
+        "클리퍼 오버 콤",
+        "탭핑",
+        "시저 오버 콤",
+        "그라데이션(페이드)"
+      ],
+      "answerIndex": 2,
+      "explanation": "시저 오버 콤은 빗으로 모발을 받쳐 들고 가위를 연속적으로 움직여 짧은 모발을 커트하는 장가위 기법이다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "그래쥬에이션 커트에 대한 설명으로 옳은 것은?",
+      "options": [
+        "시술각 0도로 커트하여 층이 전혀 생기지 않는다.",
+        "시술각 90도 이상으로 커트하여 무게감이 두상 전체에 고르게 분산된다.",
+        "인크리스 레이어와 유니폼 레이어로 세분된다.",
+        "시술각 0도 초과~90도 미만으로 커트하며 모발 하단부에 무게감과 볼륨이 쌓인다."
+      ],
+      "answerIndex": 3,
+      "explanation": "그래쥬에이션 커트는 시술각 0도 초과~90도 미만으로 커트하여 모발 하단부에 무게감과 볼륨이 쌓이는 형태이다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "전동 클리퍼(바리캉)를 사용한 커트 시 유의사항으로 옳은 것은?",
+      "options": [
+        "두피에 클리퍼를 강하게 눌러 밀어야 정교한 시술이 가능하다.",
+        "젖은 모발에 클리퍼를 사용하면 날의 밀림이나 부식을 방지할 수 있다.",
+        "두상의 굴곡과 관계없이 항상 동일한 각도로 시술해야 한다.",
+        "두상의 굴곡을 확인하며 각도를 조절하고, 젖은 모발 사용 시 날이 밀리거나 녹슬 수 있어 주의해야 한다."
+      ],
+      "answerIndex": 3,
+      "explanation": "클리퍼 시술 시 두상의 굴곡을 확인하며 각도를 조절해야 하고, 젖은 모발에 사용하면 날이 밀리거나 녹이 스는 문제가 생길 수 있어 주의해야 한다.",
+      "subCategory": "theory-6"
+    },
+    {
+      "category": "theory",
+      "question": "큐티클이 치밀하여 약제의 침투가 느린 저항성모에 대한 퍼머넌트 시술 시 프로세싱 타임을 어떻게 조정해야 하는가?",
+      "options": [
+        "프로세싱 타임을 길게 준다.",
+        "프로세싱 타임을 짧게 준다.",
+        "프로세싱 타임과 무관하게 시술한다.",
+        "제1액을 도포하지 않고 시술한다."
+      ],
+      "answerIndex": 0,
+      "explanation": "저항성모는 큐티클이 치밀하여 약제 침투가 느리므로 프로세싱 타임을 길게 주어야 한다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "theory",
+      "question": "퍼머넌트 웨이브 시술 시 방치 시간이 과도하여 모발이 푸석해지고 탄력을 잃으며 컬이 지글거리게 되는 현상은?",
+      "options": [
+        "언더프로세싱",
+        "오버프로세싱",
+        "다공성모",
+        "저항성모"
+      ],
+      "answerIndex": 1,
+      "explanation": "오버프로세싱은 방치 시간이 지나쳐 모발이 과도하게 처리되어 푸석해지고 탄력을 잃는 현상이다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "theory",
+      "question": "퍼머넌트 웨이브 시술 전 알레르기 반응 유무를 확인하기 위해 실시하는 패치 테스트는 일반적으로 몇 시간 전에 실시하는가?",
+      "options": [
+        "24시간",
+        "48시간",
+        "72시간",
+        "12시간"
+      ],
+      "answerIndex": 1,
+      "explanation": "퍼머넌트 웨이브 시술 전에는 반드시 48시간 전 패치 테스트를 실시하여 알레르기 반응 유무를 확인해야 한다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "theory",
+      "question": "매직스트레이트(스트레이트 펌) 시술 시 건강모를 기준으로 한 매직기(아이론)의 일반적인 적정 온도는?",
+      "options": [
+        "약 80~100도",
+        "약 100~120도",
+        "약 160~180도",
+        "약 220~240도"
+      ],
+      "answerIndex": 2,
+      "explanation": "매직기의 적정 온도는 건강모 기준 약 160~180도가 일반적이며, 손상모의 경우 온도를 낮춰야 한다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "theory",
+      "question": "마셀 웨이브(아이론 웨이브) 시술 시 프롱은 위로, 그루브는 아래로 향하게 하여 모발을 회전시킬 때 기준이 되는 회전 각도와 적정 아이론 온도는?",
+      "options": [
+        "회전각도 90도, 온도 200도 이상",
+        "회전각도 20도, 온도 80~100도",
+        "회전각도 약 45도, 온도 약 120~140도",
+        "회전각도 180도, 온도 60도 이하"
+      ],
+      "answerIndex": 2,
+      "explanation": "마셀 웨이브는 회전각도 약 45도, 적정 아이론 온도 약 120~140도를 기준으로 시술한다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "theory",
+      "question": "매직스트레이트 시술 후 홈케어 안내로 가장 적절한 것은?",
+      "options": [
+        "시술 직후 곧바로 머리를 단단히 묶어 형태를 고정시킨다.",
+        "시술 직후 핀으로 고정하여 웨이브를 강조한다.",
+        "새로 형성된 결합이 안정되기 전이므로 온수로 여러 번 헹궈낸다.",
+        "결합이 완전히 안정될 때까지 약 24~48시간 동안 머리를 묶거나 핀으로 고정하는 등 형태 변형을 피하도록 안내한다."
+      ],
+      "answerIndex": 3,
+      "explanation": "매직스트레이트 시술 후에는 새로 형성된 결합이 완전히 안정되기 전까지 약 24~48시간 동안 형태 변형 행동을 피해야 한다.",
+      "subCategory": "theory-7"
+    },
+    {
+      "category": "theory",
+      "question": "핑거웨이브의 구성요소 중 크레스트와 크레스트 사이의 골짜기 부분을 가리키는 용어는?",
+      "options": [
+        "트로프",
+        "크레스트",
+        "리지",
+        "스템"
+      ],
+      "answerIndex": 0,
+      "explanation": "트로프는 크레스트와 크레스트 사이의 골짜기 부분을 가리키는 핑거웨이브의 구성요소이다.",
+      "subCategory": "theory-8"
+    },
+    {
+      "category": "theory",
+      "question": "완성된 세트를 손질하여 최종 스타일로 마무리하는 단계로, 콤아웃이라고도 불리는 것은?",
+      "options": [
+        "리세트",
+        "오리지널 세트",
+        "헤어파팅",
+        "헤어웨이빙"
+      ],
+      "answerIndex": 0,
+      "explanation": "리세트(콤아웃)는 오리지널 세트로 만든 형태를 손질하여 최종 스타일로 마무리하는 단계이다.",
+      "subCategory": "theory-8"
+    },
+    {
+      "category": "theory",
+      "question": "컬의 구성요소 중 베이스와 루프를 연결하며, 모발이 두피에서 뜨는 각도에 따라 논스템·하프스템·롱스템으로 구분되는 것은?",
+      "options": [
+        "피봇포인트",
+        "스템",
+        "크레스트",
+        "트로프"
+      ],
+      "answerIndex": 1,
+      "explanation": "스템은 베이스와 루프를 연결하는 부분으로 두피에서 뜨는 각도에 따라 논스템·하프스템·롱스템으로 구분된다.",
+      "subCategory": "theory-8"
+    },
+    {
+      "category": "theory",
+      "question": "롤 브러시로 모발 끝을 안쪽으로 말아준 뒤 열을 가하고 충분히 식혀(쿨링) 곡선 형태를 고정하는 드라이 방식은?",
+      "options": [
+        "스트레이트 드라이",
+        "핑거웨이브",
+        "C컬(인컬) 드라이",
+        "백콤 드라이"
+      ],
+      "answerIndex": 2,
+      "explanation": "C컬(인컬) 드라이는 롤 브러시로 모발 끝을 안쪽으로 말아 열을 가한 뒤 충분히 식혀 곡선 형태를 고정하는 방식이다.",
+      "subCategory": "theory-8"
+    },
+    {
+      "category": "theory",
+      "question": "블로우 드라이로 헤어스타일을 일시적으로 고정할 수 있는 화학적 원리는?",
+      "options": [
+        "시스틴(이황화) 결합의 절단과 재결합",
+        "펩타이드 결합의 형성",
+        "이온 결합의 강화",
+        "물에 의해 일시적으로 끊어졌다가 건조되면서 재형성되는 수소 결합"
+      ],
+      "answerIndex": 3,
+      "explanation": "드라이는 물에 의해 일시적으로 끊어졌다가 건조되면서 재형성되는 수소 결합의 원리를 이용한다.",
+      "subCategory": "theory-8"
+    },
+    {
+      "category": "theory",
+      "question": "컬이 방사형으로 퍼져나가는 중심점이 되는 컬의 구성요소는?",
+      "options": [
+        "루프",
+        "스템",
+        "베이스",
+        "피봇포인트"
+      ],
+      "answerIndex": 3,
+      "explanation": "피봇포인트는 컬이 방사형으로 퍼져나가는 중심점이 되는 컬의 구성요소이다.",
+      "subCategory": "theory-8"
+    },
+    {
+      "category": "theory",
+      "question": "헤어매니큐어, 산성 컬러 등이 해당하며 지속기간이 약 4~6주인 염모제 분류는?",
+      "options": [
+        "반영구적 염모제",
+        "일시적 염모제",
+        "영구적 염모제(산화염모제)",
+        "금속성 염모제"
+      ],
+      "answerIndex": 0,
+      "explanation": "반영구적 염모제는 모표피와 모피질 일부에 염료가 결합하여 약 4~6주간 유지된다.",
+      "subCategory": "theory-9"
+    },
+    {
+      "category": "theory",
+      "question": "산화염모제 시술 시 제1제(알칼리제)의 주된 역할은?",
+      "options": [
+        "멜라닌 색소를 산화·분해하여 탈색시킨다.",
+        "모표피를 팽윤시켜 큐티클을 열어주는 역할을 한다.",
+        "염료 중간체를 산화시켜 발색·중합시킨다.",
+        "모발의 수분을 공급하여 건조를 방지한다."
+      ],
+      "answerIndex": 1,
+      "explanation": "제1제의 알칼리 성분은 모표피를 팽윤시켜 큐티클을 열어주는 역할을 한다.",
+      "subCategory": "theory-9"
+    },
+    {
+      "category": "theory",
+      "question": "탈색 후 모발에 남는 노란 기(황색조)를 중화시키고 싶을 때 색상환에서 활용하는 보색 계열은?",
+      "options": [
+        "초록색 계열",
+        "붉은색 계열",
+        "보라색(바이올렛) 계열",
+        "주황색 계열"
+      ],
+      "answerIndex": 2,
+      "explanation": "노란 기를 중화시킬 때는 색상환에서 마주보는 보색인 보라색(바이올렛) 계열을 사용한다.",
+      "subCategory": "theory-9"
+    },
+    {
+      "category": "theory",
+      "question": "염색 시술 후 방치 시간이 끝난 뒤, 소량의 물을 묻혀 두피와 모발을 마사지하듯 비벼 잔여 염모제를 제거하고 색상을 균일하게 정착시키는 작업은?",
+      "options": [
+        "스트랜드 테스트",
+        "패치 테스트",
+        "에멀전(유화) 작업",
+        "중간 린스"
+      ],
+      "answerIndex": 2,
+      "explanation": "에멀전(유화) 작업은 방치 후 소량의 물로 마사지하듯 비벼 잔여 염모제를 제거하고 색상을 정착시키는 과정이다.",
+      "subCategory": "theory-9"
+    },
+    {
+      "category": "theory",
+      "question": "염색 시술 전 알레르기 반응 여부를 확인하기 위해 귀 뒤나 팔 안쪽에 소량의 염모제를 발라 48시간 동안 관찰하는 테스트는?",
+      "options": [
+        "스트랜드 테스트",
+        "에멀전 테스트",
+        "컬러 테스트",
+        "패치 테스트"
+      ],
+      "answerIndex": 3,
+      "explanation": "패치 테스트는 귀 뒤나 팔 안쪽에 소량의 염모제를 발라 48시간 동안 알레르기 반응을 확인하는 테스트이다.",
+      "subCategory": "theory-9"
+    },
+    {
+      "category": "theory",
+      "question": "산화염모제의 제2제(과산화수소)가 수행하는 역할로 옳은 것은?",
+      "options": [
+        "모표피를 팽윤시켜 큐티클을 열어준다.",
+        "염모제의 pH를 낮춰 산성화시킨다.",
+        "모발에 유분을 공급하여 광택을 더한다.",
+        "멜라닌 색소를 산화·분해(탈색)함과 동시에 염료 중간체를 산화시켜 발색·중합시킨다."
+      ],
+      "answerIndex": 3,
+      "explanation": "제2제(과산화수소)는 멜라닌 색소를 산화·분해하여 탈색시킴과 동시에 염료 중간체를 산화시켜 발색·중합시킨다.",
+      "subCategory": "theory-9"
+    },
+    {
+      "category": "theory",
+      "question": "업스타일 시술 전 린스나 컨디셔너 사용을 자제하는 주된 이유는?",
+      "options": [
+        "린스 성분이 모발 표면을 매끄럽게 코팅하여 핀이 미끄러지고 볼륨이 잘 잡히지 않기 때문이다.",
+        "린스를 사용하면 모발이 손상되어 시술이 불가능해지기 때문이다.",
+        "린스는 반드시 시술 후에만 사용해야 하는 제품이기 때문이다.",
+        "린스가 두피에 염증을 유발하기 때문이다."
+      ],
+      "answerIndex": 0,
+      "explanation": "린스 성분이 모발 표면을 매끄럽게 코팅하면 핀이 미끄러지고 볼륨이 잘 잡히지 않으므로 업스타일 전에는 사용을 자제한다.",
+      "subCategory": "theory-10"
+    },
+    {
+      "category": "theory",
+      "question": "미용 마사지의 효과에 대한 설명으로 옳은 것은?",
+      "options": [
+        "마사지는 치료 효과가 아닌 예방과 미용 효과를 목적으로 한다.",
+        "마사지는 질병을 치료하는 의료 행위에 해당한다.",
+        "마사지는 혈액순환과는 무관한 시술이다.",
+        "마사지는 반드시 통증을 유발해야 효과가 있다."
+      ],
+      "answerIndex": 0,
+      "explanation": "마사지는 혈액순환과 신진대사를 촉진하는 예방·미용 효과를 목적으로 하며 치료 효과를 갖지 않는다.",
+      "subCategory": "theory-10"
+    },
+    {
+      "category": "theory",
+      "question": "가발(위그)의 소재에 대한 설명으로 옳은 것은?",
+      "options": [
+        "인조섬유(인조모)는 열에 강해 고온 스타일링 도구 사용이 자유롭다.",
+        "인모는 자연스럽고 열에 강하지만 인조섬유보다 고가이다.",
+        "인모는 저렴하지만 열에 약해 고온 기구 사용을 피해야 한다.",
+        "가발 소재의 종류는 세척 방법과 아무런 관련이 없다."
+      ],
+      "answerIndex": 1,
+      "explanation": "인모는 자연스럽고 열에 강하지만 고가이며, 합성섬유(인조모)는 저렴하지만 열에 약해 고온 스타일링 도구 사용을 피해야 한다.",
+      "subCategory": "theory-10"
+    },
+    {
+      "category": "theory",
+      "question": "모발 끝에서 모근 방향으로 빗질하여 모발 안쪽에 볼륨과 걸림을 만드는 업스타일 기법은?",
+      "options": [
+        "트리밍",
+        "백콤(백코오밍)",
+        "슬리더링",
+        "테이퍼링"
+      ],
+      "answerIndex": 1,
+      "explanation": "백콤(백코오밍)은 모발 끝에서 모근 방향으로 빗질하여 안쪽에 볼륨과 걸림을 만드는 업스타일 기법이다.",
+      "subCategory": "theory-10"
+    },
+    {
+      "category": "theory",
+      "question": "업스타일 마무리 시 스프레이를 분사할 때, 하얗게 뭉치는 플레이킹 현상을 방지하기 위한 적정 분사 거리는?",
+      "options": [
+        "약 5cm 이내",
+        "약 50~60cm",
+        "약 20~30cm",
+        "약 100cm 이상"
+      ],
+      "answerIndex": 2,
+      "explanation": "헤어스프레이는 모발과 약 20~30cm의 거리를 두고 분사해야 플레이킹 현상을 방지할 수 있다.",
+      "subCategory": "theory-10"
+    },
+    {
+      "category": "theory",
+      "question": "손톱의 구조 중 끝부분에 자라나온 흰색 부분으로, '자유연'이라고도 불리는 것은?",
+      "options": [
+        "네일 루트(조근)",
+        "네일 바디(조체)",
+        "네일 베드(조상)",
+        "프리에지(자유연)"
+      ],
+      "answerIndex": 3,
+      "explanation": "프리에지(자유연)는 손톱 끝의 자라나온 흰색 부분을 가리킨다.",
+      "subCategory": "theory-10"
+    },
+    {
+      "category": "theory",
+      "question": "흉곽(가슴우리)을 구성하는 뼈에 해당하지 않는 것은?",
+      "options": [
+        "골반뼈",
+        "흉추",
+        "늑골(갈비뼈)",
+        "흉골"
+      ],
+      "answerIndex": 0,
+      "explanation": "흉곽은 흉추, 늑골, 흉골로 구성되며 골반뼈는 흉곽에 포함되지 않는 별도의 하체 골격이다.",
+      "subCategory": "theory-11"
+    },
+    {
+      "category": "theory",
+      "question": "음식을 씹을 때 사용되는 대표적인 저작근은?",
+      "options": [
+        "안륜근",
+        "교근",
+        "구륜근",
+        "전두근"
+      ],
+      "answerIndex": 1,
+      "explanation": "교근(咬筋)은 음식을 씹을 때 사용되는 대표적인 저작근이다.",
+      "subCategory": "theory-11"
+    },
+    {
+      "category": "theory",
+      "question": "심장의 네 개 방 중, 전신으로 산소가 풍부한 혈액을 내보내는 펌프 역할을 하며 가장 두꺼운 근육벽을 가진 부위는?",
+      "options": [
+        "우심방",
+        "우심실",
+        "좌심실",
+        "좌심방"
+      ],
+      "answerIndex": 2,
+      "explanation": "좌심실은 전신으로 산소가 풍부한 혈액을 내보내는 펌프 역할을 담당하며 가장 두꺼운 근육벽을 가진다.",
+      "subCategory": "theory-11"
+    },
+    {
+      "category": "theory",
+      "question": "눈을 감고 뜨는 동작에 관여하는 얼굴 근육은?",
+      "options": [
+        "교근",
+        "전두근",
+        "구륜근",
+        "안륜근"
+      ],
+      "answerIndex": 3,
+      "explanation": "안륜근은 눈 주위에 위치하여 눈을 감고 뜨는 동작에 관여하는 근육이다.",
+      "subCategory": "theory-11"
+    },
+    {
+      "category": "skin",
+      "question": "표피를 피부 안쪽(진피와 접한 쪽)에서 바깥쪽으로 순서대로 나열한 것으로 옳은 것은?",
+      "options": [
+        "기저층 → 유극층 → 과립층 → 투명층 → 각질층",
+        "기저층 → 과립층 → 유극층 → 각질층 → 투명층",
+        "유극층 → 기저층 → 과립층 → 각질층 → 투명층",
+        "과립층 → 기저층 → 유극층 → 투명층 → 각질층"
+      ],
+      "answerIndex": 0,
+      "explanation": "표피는 안쪽에서부터 기저층-유극층-과립층-투명층-각질층 순서로 구성된다.",
+      "subCategory": "skin-1"
+    },
+    {
+      "category": "skin",
+      "question": "모발의 단면 구조 중 모피질(코텍스, cortex)에 대한 설명으로 가장 적절한 것은?",
+      "options": [
+        "멜라닌 색소를 함유하여 모발의 색상과 탄력을 결정하며 모발 부피의 80~90%를 차지한다.",
+        "모발의 가장 바깥층에서 비늘 모양으로 겹쳐져 모발 내부를 보호한다.",
+        "모발 중심부에 위치하며 공기를 함유한 벌집 모양 구조로 되어 있다.",
+        "모낭 하단에 위치하여 모발 성장에 필요한 영양을 공급한다."
+      ],
+      "answerIndex": 0,
+      "explanation": "모피질은 모발의 색상과 탄력을 좌우하며 모발 부피의 대부분(80~90%)을 차지하는 층이다.",
+      "subCategory": "skin-1"
+    },
+    {
+      "category": "skin",
+      "question": "건성 피부 중 자외선, 잘못된 화장품 사용 등 외적 요인으로 인해 피부 표면의 수분이 부족해진 유형은?",
+      "options": [
+        "표피성 건성피부",
+        "진피성 건성피부",
+        "지성피부",
+        "복합성피부"
+      ],
+      "answerIndex": 0,
+      "explanation": "건성피부는 외적 요인에 의한 표피성 건성피부와 선천적·내적 요인에 의한 진피성 건성피부로 구분된다.",
+      "subCategory": "skin-2"
+    },
+    {
+      "category": "skin",
+      "question": "우드램프(Wood's Lamp)로 피부를 진단할 때 피지 분비가 많은 부위에서 나타나는 색상은?",
+      "options": [
+        "오렌지색",
+        "청백색",
+        "갈색~암갈색",
+        "흰색"
+      ],
+      "answerIndex": 0,
+      "explanation": "우드램프 진단 시 정상피부는 청백색, 피지가 많은 부위는 오렌지색, 색소침착 부위는 갈색~암갈색으로 나타난다.",
+      "subCategory": "skin-2"
+    },
+    {
+      "category": "skin",
+      "question": "비타민과 그 결핍 시 나타나는 증상의 연결이 옳지 않은 것은?",
+      "options": [
+        "비타민 A 결핍 - 피부 건조 및 각화 이상",
+        "비타민 C 결핍 - 괴혈병",
+        "비타민 D 결핍 - 구루병",
+        "비타민 E 결핍 - 야맹증"
+      ],
+      "answerIndex": 3,
+      "explanation": "야맹증은 비타민 A 결핍의 대표 증상이며, 비타민 E는 항산화 작용을 하는 비타민으로 야맹증과 직접 관련이 없다.",
+      "subCategory": "skin-3"
+    },
+    {
+      "category": "skin",
+      "question": "피부의 콜라겐과 엘라스틴을 구성하는 주된 영양소는?",
+      "options": [
+        "탄수화물",
+        "단백질",
+        "지방",
+        "무기질"
+      ],
+      "answerIndex": 1,
+      "explanation": "콜라겐과 엘라스틴은 아미노산으로 이루어진 단백질(경단백질)이다.",
+      "subCategory": "skin-3"
+    },
+    {
+      "category": "skin",
+      "question": "콜라겐 합성을 촉진하고 멜라닌 생성을 억제하여 미백에 도움을 주는 비타민은?",
+      "options": [
+        "비타민 A",
+        "비타민 C",
+        "비타민 E",
+        "비타민 D"
+      ],
+      "answerIndex": 1,
+      "explanation": "비타민 C는 콜라겐 합성을 돕고 멜라닌 생성을 억제하는 미백 효과가 있다.",
+      "subCategory": "skin-3"
+    },
+    {
+      "category": "skin",
+      "question": "파장이 가장 길어 진피까지 침투하며, 피부 광노화(주름·탄력저하)의 주된 원인이 되는 광선은?",
+      "options": [
+        "UV-B",
+        "UV-A",
+        "UV-C",
+        "가시광선"
+      ],
+      "answerIndex": 1,
+      "explanation": "UV-A(장파장)는 진피까지 침투해 광노화를 유발하며 자외선차단지수 중 PA로 표시된다.",
+      "subCategory": "skin-4"
+    },
+    {
+      "category": "skin",
+      "question": "자외선차단제 성분 중 자외선을 피부 표면에서 반사·산란시키는 물리적 차단제에 해당하는 것은?",
+      "options": [
+        "옥시벤존",
+        "콜라겐",
+        "이산화티타늄",
+        "히알루론산"
+      ],
+      "answerIndex": 2,
+      "explanation": "이산화티타늄(티타늄디옥사이드)과 산화아연은 자외선을 반사·산란시키는 물리적 자외선차단제 성분이다.",
+      "subCategory": "skin-4"
+    },
+    {
+      "category": "skin",
+      "question": "피부 노화 이론 중, 체내에서 발생한 활성산소(유해산소)가 세포를 손상시켜 노화를 촉진한다고 설명하는 학설은?",
+      "options": [
+        "DNA프로그램설",
+        "자가면역설",
+        "프리라디칼설",
+        "수명(에러)설"
+      ],
+      "answerIndex": 2,
+      "explanation": "프리라디칼(활성산소)설은 활성산소에 의한 세포 손상이 노화의 주요 원인이라고 보는 이론이다.",
+      "subCategory": "skin-5"
+    },
+    {
+      "category": "skin",
+      "question": "광노화(외인성 노화)에 대한 설명으로 옳지 않은 것은?",
+      "options": [
+        "자외선 등 외부 환경요인에 의해 발생한다.",
+        "자연노화보다 더 깊고 굵은 주름을 만든다.",
+        "색소침착이 불규칙하게 나타난다.",
+        "시간의 흐름에 따른 신체 내부 요인만으로 발생한다."
+      ],
+      "answerIndex": 3,
+      "explanation": "신체 내부 요인만으로 발생하는 노화는 내인성(자연) 노화이며, 광노화는 자외선 등 외부 환경요인에 의한 외인성 노화이다.",
+      "subCategory": "skin-5"
+    },
+    {
+      "category": "skin",
+      "question": "피부의 특이성 면역 중 항체를 생성하여 체액성 면역을 담당하는 세포는?",
+      "options": [
+        "T림프구",
+        "랑게르한스세포",
+        "B림프구",
+        "비만세포"
+      ],
+      "answerIndex": 2,
+      "explanation": "B림프구는 항체를 생성하여 체액성 면역을 담당하며, T림프구는 세포를 직접 공격하는 세포성 면역을 담당한다.",
+      "subCategory": "skin-6"
+    },
+    {
+      "category": "skin",
+      "question": "표피의 유극층에 위치하며, 외부 항원을 인지해 면역반응을 유도하는 피부의 대표적 면역세포는?",
+      "options": [
+        "멜라닌형성세포",
+        "각질형성세포",
+        "비만세포",
+        "랑게르한스세포"
+      ],
+      "answerIndex": 3,
+      "explanation": "랑게르한스세포는 유극층에 위치한 항원제시세포로 피부의 대표적인 면역세포이다.",
+      "subCategory": "skin-6"
+    },
+    {
+      "category": "skin",
+      "question": "다음 중 원발진(1차 병변)에 해당하지 않는 것은?",
+      "options": [
+        "구진",
+        "반흔",
+        "수포",
+        "팽진"
+      ],
+      "answerIndex": 1,
+      "explanation": "반흔(흉터)은 원발진 이후에 나타나는 속발진(2차 병변)에 해당한다.",
+      "subCategory": "skin-7"
+    },
+    {
+      "category": "skin",
+      "question": "표피뿐 아니라 진피까지 손상되어 치유된 후 흉터(반흔)를 남기는 속발진은?",
+      "options": [
+        "미란",
+        "인설",
+        "가피",
+        "궤양"
+      ],
+      "answerIndex": 3,
+      "explanation": "궤양은 진피까지 손상되어 치유 후 흉터(반흔)를 남기며, 미란은 표피까지만 손상되어 흉터 없이 치유된다.",
+      "subCategory": "skin-7"
+    },
+    {
+      "category": "skin",
+      "question": "다음 중 피부의 생리 기능에 해당하지 않는 것은?",
+      "options": [
+        "분비·배설 작용",
+        "비타민 D 합성 작용",
+        "혈액 생성 작용",
+        "체온 조절 작용"
+      ],
+      "answerIndex": 2,
+      "explanation": "혈액 생성은 골수의 기능이며, 피부는 보호·체온조절·감각·분비배설·호흡·비타민D합성 등의 기능을 수행한다.",
+      "subCategory": "skin-8"
+    },
+    {
+      "category": "cosmetics",
+      "question": "화장품의 4대 요건 중, 보관과 사용 과정에서 변질·변색·변취 없이 원래의 물리·화학적 성질을 유지해야 한다는 요건은?",
+      "options": [
+        "안정성",
+        "안전성",
+        "유효성",
+        "사용성"
+      ],
+      "answerIndex": 0,
+      "explanation": "안정성은 보관 및 사용 중 변질·변색·변취 없이 품질을 유지해야 한다는 화장품의 요건이다.",
+      "subCategory": "cosmetics-1"
+    },
+    {
+      "category": "cosmetics",
+      "question": "화장품과 의약품을 구분하는 가장 핵심적인 법적 기준으로 옳은 것은?",
+      "options": [
+        "제품의 가격 수준",
+        "인체에 대한 작용의 경미성 여부",
+        "천연 성분의 함유 여부",
+        "용기 디자인의 고급스러움"
+      ],
+      "answerIndex": 1,
+      "explanation": "화장품은 인체에 대한 작용이 경미해야 한다는 점에서 강한 약리작용을 목적으로 하는 의약품과 구분된다.",
+      "subCategory": "cosmetics-1"
+    },
+    {
+      "category": "cosmetics",
+      "question": "다음 중 화장품의 3대 기능에 해당하지 않는 것은?",
+      "options": [
+        "보호",
+        "보습",
+        "활성(영양)",
+        "치료"
+      ],
+      "answerIndex": 3,
+      "explanation": "화장품의 3대 기능은 보호·보습·활성이며, 질병의 치료는 의약품의 목적에 해당한다.",
+      "subCategory": "cosmetics-1"
+    },
+    {
+      "category": "cosmetics",
+      "question": "사용감(발림성·흡수력), 편리성, 향과 색상 등 소비자가 실제 사용 시 느끼는 만족도에 관한 화장품의 요건은?",
+      "options": [
+        "안전성",
+        "안정성",
+        "유효성",
+        "사용성"
+      ],
+      "answerIndex": 3,
+      "explanation": "사용성은 사용감과 편리성 등 소비자가 실제 사용할 때 느끼는 만족도에 관한 요건이다.",
+      "subCategory": "cosmetics-1"
+    },
+    {
+      "category": "cosmetics",
+      "question": "다음 중 피부 자극도가 가장 낮아 기초화장품의 유화제로 널리 사용되는 계면활성제는?",
+      "options": [
+        "양이온성 계면활성제",
+        "음이온성 계면활성제",
+        "비이온성 계면활성제",
+        "양쪽성 계면활성제"
+      ],
+      "answerIndex": 2,
+      "explanation": "비이온성 계면활성제는 자극이 가장 적어 기초화장품(스킨, 로션, 크림)의 유화제로 널리 사용된다.",
+      "subCategory": "cosmetics-2"
+    },
+    {
+      "category": "cosmetics",
+      "question": "피부 각질층에 존재하는 천연보습인자(NMF)의 구성 성분 중 가장 큰 비중을 차지하는 것은?",
+      "options": [
+        "아미노산",
+        "요소",
+        "젖산염",
+        "무기염"
+      ],
+      "answerIndex": 0,
+      "explanation": "천연보습인자(NMF)는 아미노산이 가장 큰 비중을 차지하며, 그 외 젖산염·요소·무기염 등으로 구성된다.",
+      "subCategory": "cosmetics-2"
+    },
+    {
+      "category": "cosmetics",
+      "question": "다음 중 광물성 오일에 속하며 화학적으로 안정하고 무색무취의 특징을 갖는 유성 원료는?",
+      "options": [
+        "호호바유",
+        "라놀린",
+        "밀랍",
+        "유동파라핀"
+      ],
+      "answerIndex": 3,
+      "explanation": "유동파라핀은 석유에서 정제된 광물성 오일로 화학적으로 안정하고 무색무취이며 가격이 저렴하다.",
+      "subCategory": "cosmetics-2"
+    },
+    {
+      "category": "cosmetics",
+      "question": "글리세린, 프로필렌글리콜과 같이 흡습 작용으로 피부에 수분을 공급하는 보습제 겸 용매로 쓰이는 수성원료는?",
+      "options": [
+        "에탄올",
+        "정제수",
+        "다가알코올",
+        "계면활성제"
+      ],
+      "answerIndex": 2,
+      "explanation": "다가알코올(글리세린, 프로필렌글리콜 등)은 수분을 끌어당기는 흡습 작용을 하는 보습제 겸 용매이다.",
+      "subCategory": "cosmetics-2"
+    },
+    {
+      "category": "cosmetics",
+      "question": "화장품에서 유성 성분의 산패를 억제하여 제품의 안정성을 높이는 원료는?",
+      "options": [
+        "산화방지제",
+        "착색제",
+        "향료",
+        "보습제"
+      ],
+      "answerIndex": 0,
+      "explanation": "산화방지제(토코페롤, BHT 등)는 유성 성분의 산패를 막아 제품의 안정성을 높인다.",
+      "subCategory": "cosmetics-2"
+    },
+    {
+      "category": "cosmetics",
+      "question": "물에 소량의 오일 성분(향료 등)이 계면활성제의 미셀 속에 둘러싸여 투명하게 녹아 들어가는 제조기술로, 화장수와 향수 제조에 사용되는 것은?",
+      "options": [
+        "가용화",
+        "유화",
+        "분산",
+        "경화"
+      ],
+      "answerIndex": 0,
+      "explanation": "가용화는 소량의 오일 성분이 미셀에 둘러싸여 투명하게 용해되는 기술로 화장수, 향수 등에 쓰인다.",
+      "subCategory": "cosmetics-3"
+    },
+    {
+      "category": "cosmetics",
+      "question": "물이 외상(연속상)이 되고 오일이 내상으로 미세하게 분산되어 사용감이 산뜻하고 가벼운 유화 형태는?",
+      "options": [
+        "W/O형",
+        "O/W형",
+        "가용화형",
+        "분산형"
+      ],
+      "answerIndex": 1,
+      "explanation": "O/W형(수중유적형)은 물이 외상이 되어 사용감이 산뜻하고 가벼우며 로션·크림 등에 사용된다.",
+      "subCategory": "cosmetics-3"
+    },
+    {
+      "category": "cosmetics",
+      "question": "오일이 외상이 되고 물이 내상으로 분산되어 지속력과 밀착력이 좋아 워터프루프 선크림 등에 활용되는 유화 형태는?",
+      "options": [
+        "O/W형",
+        "W/O형",
+        "가용화형",
+        "분산형"
+      ],
+      "answerIndex": 1,
+      "explanation": "W/O형(유중수적형)은 오일이 외상이 되어 유분감이 강하고 지속력·밀착력이 좋다.",
+      "subCategory": "cosmetics-3"
+    },
+    {
+      "category": "cosmetics",
+      "question": "고체 상태의 미세한 안료(색소) 입자를 액체 매질 속에 균일하게 흩어지게 하는 제조기술로, 파운데이션이나 아이섀도 제조에 사용되는 것은?",
+      "options": [
+        "가용화",
+        "유화",
+        "분산",
+        "중화"
+      ],
+      "answerIndex": 2,
+      "explanation": "분산은 녹지 않는 고체 미세 입자를 액체 매질에 균일하게 흩어지게 하는 기술로 파운데이션 등 메이크업 제품에 쓰인다.",
+      "subCategory": "cosmetics-3"
+    },
+    {
+      "category": "cosmetics",
+      "question": "다음 중 일반적인 기초화장품 사용 순서로 옳은 것은?",
+      "options": [
+        "크림 → 로션 → 에센스 → 화장수",
+        "로션 → 화장수 → 크림 → 에센스",
+        "에센스 → 크림 → 화장수 → 로션",
+        "화장수 → 에센스 → 로션 → 크림"
+      ],
+      "answerIndex": 3,
+      "explanation": "기초화장품은 가벼운 제형에서 무거운 제형 순으로 화장수→에센스→로션→크림 순서로 바르는 것이 일반적이다.",
+      "subCategory": "cosmetics-4"
+    },
+    {
+      "category": "cosmetics",
+      "question": "모공을 수축시키고 피지 분비를 억제하는 목적으로 지성피부에 주로 사용되는 화장수는?",
+      "options": [
+        "유연화장수",
+        "수렴화장수",
+        "클렌징워터",
+        "에센스"
+      ],
+      "answerIndex": 1,
+      "explanation": "수렴화장수(아스트린젠트)는 모공을 조이고 피지를 억제하는 목적으로 지성피부에 적합하다.",
+      "subCategory": "cosmetics-4"
+    },
+    {
+      "category": "cosmetics",
+      "question": "파운데이션의 제형 중 고형 타입으로 휴대성과 커버력이 우수한 것은?",
+      "options": [
+        "리퀴드 타입",
+        "크림 타입",
+        "에센스 타입",
+        "케이크 타입"
+      ],
+      "answerIndex": 3,
+      "explanation": "케이크 타입 파운데이션은 고형 제형으로 휴대성과 커버력이 뛰어나다.",
+      "subCategory": "cosmetics-4"
+    },
+    {
+      "category": "cosmetics",
+      "question": "다음 중 부향률이 가장 높아 향의 지속시간이 가장 긴 향수 타입은?",
+      "options": [
+        "오데코롱",
+        "오데토일렛",
+        "퍼퓸",
+        "샤워코롱"
+      ],
+      "answerIndex": 2,
+      "explanation": "퍼퓸(Parfum)은 부향률이 15~30%로 가장 높아 향의 지속시간이 가장 길다.",
+      "subCategory": "cosmetics-4"
+    },
+    {
+      "category": "cosmetics",
+      "question": "향수를 뿌린 후 탑노트가 사라지고 나타나는, 향수의 개성을 결정짓는 중심 향으로 플로럴 계열이 주로 사용되는 단계는?",
+      "options": [
+        "베이스노트",
+        "미들노트",
+        "라스트노트",
+        "프레시노트"
+      ],
+      "answerIndex": 1,
+      "explanation": "미들노트(하트노트)는 탑노트 이후 나타나는 향수의 중심 향으로 플로럴 계열이 주로 사용된다.",
+      "subCategory": "cosmetics-4"
+    },
+    {
+      "category": "cosmetics",
+      "question": "퍼머넌트 웨이브 시술 시 모발의 시스틴 결합을 절단하는 역할을 하는 것은?",
+      "options": [
+        "1제(환원제)",
+        "2제(산화제)",
+        "알칼리제",
+        "중화제"
+      ],
+      "answerIndex": 0,
+      "explanation": "퍼머넌트 웨이브의 1제(환원제, 치오글리콜산 등)는 모발의 시스틴 결합을 절단하는 역할을 한다.",
+      "subCategory": "cosmetics-4"
+    },
+    {
+      "category": "cosmetics",
+      "question": "자외선차단지수 중 UV-B 차단 효과를 나타내는 지수는?",
+      "options": [
+        "SPF",
+        "PA",
+        "UVI",
+        "IPF"
+      ],
+      "answerIndex": 0,
+      "explanation": "SPF(Sun Protection Factor)는 UV-B 차단 효과를 나타내는 지수이며, PA는 UV-A 차단지수를 의미한다.",
+      "subCategory": "cosmetics-5"
+    },
+    {
+      "category": "cosmetics",
+      "question": "파장이 길어 진피층까지 도달하며 콜라겐과 엘라스틴을 서서히 파괴하여 피부 탄력 저하와 주름을 유발하는 광노화의 주된 원인이 되는 자외선은?",
+      "options": [
+        "UV-C",
+        "UV-B",
+        "UV-A",
+        "가시광선"
+      ],
+      "answerIndex": 2,
+      "explanation": "UV-A는 파장이 길어 진피층까지 도달하며 광노화(주름, 탄력저하)를 유발하는 주된 원인이다.",
+      "subCategory": "cosmetics-5"
+    },
+    {
+      "category": "cosmetics",
+      "question": "멜라닌 합성에 관여하는 효소인 티로시나아제의 활성을 억제하여 미백 효과를 나타내는 대표적인 성분은?",
+      "options": [
+        "레티놀",
+        "알부틴",
+        "아데노신",
+        "세라마이드"
+      ],
+      "answerIndex": 1,
+      "explanation": "알부틴은 티로시나아제 효소의 활성을 억제하여 멜라닌 생성을 저해하는 대표적인 미백 성분이다.",
+      "subCategory": "cosmetics-5"
+    },
+    {
+      "category": "cosmetics",
+      "question": "세포의 콜라겐 생성을 촉진하고 피부 재생을 도와 주름 개선에 도움을 주는 식약처 고시 성분은?",
+      "options": [
+        "옥시벤존",
+        "코직산",
+        "이산화티타늄",
+        "아데노신"
+      ],
+      "answerIndex": 3,
+      "explanation": "아데노신은 콜라겐 생성을 촉진하고 피부 재생을 도와 주름 개선에 도움을 주는 식약처 고시 성분이다.",
+      "subCategory": "cosmetics-5"
+    },
+    {
+      "category": "cosmetics",
+      "question": "화학적(유기) 자외선차단제 성분으로, 자외선을 흡수한 뒤 열에너지로 전환하여 방출하는 방식으로 작용하는 것은?",
+      "options": [
+        "이산화티타늄",
+        "산화아연",
+        "옥시벤존",
+        "무기분말"
+      ],
+      "answerIndex": 2,
+      "explanation": "옥시벤존은 유기자외선차단제 성분으로 자외선을 흡수해 열에너지로 전환·방출하는 화학적 차단 방식으로 작용한다.",
+      "subCategory": "cosmetics-5"
+    },
+    {
+      "category": "hygiene",
+      "question": "WHO가 정의한 건강의 개념으로 가장 옳은 것은?",
+      "options": [
+        "질병이나 병약함이 없는 상태",
+        "육체적으로 완전한 상태",
+        "육체적·정신적·사회적으로 완전히 안녕한 상태",
+        "질병에 걸리지 않도록 예방접종을 완료한 상태"
+      ],
+      "answerIndex": 2,
+      "explanation": "WHO는 건강을 단순히 질병이 없는 상태가 아니라 육체적·정신적·사회적으로 완전히 안녕한 상태로 정의한다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "한 국가나 지역사회의 공중보건 수준을 나타내는 대표적 지표로 가장 많이 사용되는 것은?",
+      "options": [
+        "영아사망률",
+        "노인인구비율",
+        "평균수명",
+        "인구증가율"
+      ],
+      "answerIndex": 0,
+      "explanation": "영아사망률은 지역사회 보건수준을 나타내는 가장 대표적이고 민감한 지표로 활용된다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "다음 중 인구가 감소하고 있는 인구구성형태에 해당하는 것은?",
+      "options": [
+        "피라미드형",
+        "종형",
+        "항아리형",
+        "별형"
+      ],
+      "answerIndex": 2,
+      "explanation": "항아리형은 유소년 인구보다 노년인구비율이 높아 인구가 감소하는 형태이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "노령화 지수를 구하는 공식으로 옳은 것은?",
+      "options": [
+        "(노년인구 ÷ 생산연령인구) × 100",
+        "(노년인구 ÷ 유소년인구) × 100",
+        "(유소년인구 ÷ 총인구) × 100",
+        "(생산연령인구 ÷ 유소년인구) × 100"
+      ],
+      "answerIndex": 1,
+      "explanation": "노령화지수는 유소년인구에 대한 노년인구의 비율로, (노년인구÷유소년인구)×100으로 계산한다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "공중보건학의 목적과 대상에 대한 설명으로 가장 옳은 것은?",
+      "options": [
+        "개인의 질병을 치료하는 것이 목적이다.",
+        "대상은 병원에 입원한 환자로 한정된다.",
+        "특정 질병에 대한 치료제 개발이 목적이다.",
+        "예방을 중심으로 하며 대상은 지역사회 전체이다."
+      ],
+      "answerIndex": 3,
+      "explanation": "공중보건학은 치료보다 예방을 중심으로 하며, 개인이 아닌 지역사회 전체를 대상으로 한다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "감염병이 발생하기 위한 3대 요소를 옳게 짝지은 것은?",
+      "options": [
+        "병원체 - 전파경로 - 숙주의 감수성",
+        "병원체 - 인구밀도 - 기후",
+        "전파경로 - 인구밀도 - 숙주의 감수성",
+        "병원체 - 매개곤충 - 환경오염"
+      ],
+      "answerIndex": 0,
+      "explanation": "감염병 발생의 3대 요소는 병원체(감염원), 전파경로(감염경로), 숙주의 감수성(면역)이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "「감염병의 예방 및 관리에 관한 법률」상 발생 시 24시간 이내에 신고해야 하는 제2급감염병에 해당하는 것은?",
+      "options": [
+        "에볼라바이러스병",
+        "콜레라",
+        "인플루엔자",
+        "페스트"
+      ],
+      "answerIndex": 1,
+      "explanation": "콜레라는 제2급감염병으로 발생 시 24시간 이내에 신고해야 하며, 에볼라·페스트는 제1급감염병으로 즉시 신고 대상이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "수인성 감염병의 특징으로 가장 옳은 것은?",
+      "options": [
+        "발생과 유행 지역이 음용수 사용지역과 일치한다.",
+        "치명률이 매우 높다.",
+        "남녀노소 상관없이 서서히 환자가 발생한다.",
+        "감염 경로가 주로 곤충 매개이다."
+      ],
+      "answerIndex": 0,
+      "explanation": "수인성 감염병은 오염된 물을 함께 사용한 지역에서 폭발적으로 발생하며, 유행지역이 음용수 지역과 일치하는 특징이 있으나 치명률은 상대적으로 낮다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "예방접종을 통해 얻는 면역의 종류는?",
+      "options": [
+        "자연능동면역",
+        "인공수동면역",
+        "자연수동면역",
+        "인공능동면역"
+      ],
+      "answerIndex": 3,
+      "explanation": "예방접종으로 얻는 면역은 인공적으로 항원을 주입해 항체를 만들게 하는 인공능동면역이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "감마글로불린이나 파상풍 혈청 주사로 얻는 면역의 종류는?",
+      "options": [
+        "자연능동면역",
+        "인공능동면역",
+        "자연수동면역",
+        "인공수동면역"
+      ],
+      "answerIndex": 3,
+      "explanation": "감마글로불린·혈청 주사와 같이 이미 만들어진 항체를 직접 주입받는 면역은 인공수동면역이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "실내 공기 오염의 지표로 사용되며 서한량이 0.1%(1,000ppm)로 규정된 물질은?",
+      "options": [
+        "일산화탄소",
+        "이산화탄소",
+        "아황산가스",
+        "오존"
+      ],
+      "answerIndex": 1,
+      "explanation": "이산화탄소(CO2)는 실내공기 오염의 지표로 서한량은 0.1%(1,000ppm)이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "밀폐된 공간에 다수인이 있을 때 발생하는 '군집독'의 주된 원인은?",
+      "options": [
+        "세균 감염",
+        "환기 불량으로 인한 온습도 상승 및 이산화탄소 증가",
+        "자외선 과다 노출",
+        "소음으로 인한 스트레스"
+      ],
+      "answerIndex": 1,
+      "explanation": "군집독은 밀폐공간의 환기 불량으로 CO2가 증가하고 산소가 감소하며 온습도가 상승하여 나타나는 증상이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "온열조건을 구성하는 4대 요소에 해당하지 않는 것은?",
+      "options": [
+        "기온",
+        "기습",
+        "복사열",
+        "조도"
+      ],
+      "answerIndex": 3,
+      "explanation": "온열조건 4대 요소는 기온·기습·기류·복사열이며, 조도는 이에 해당하지 않는다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "인체가 쾌적함을 느끼는 습도의 범위로 가장 적절한 것은?",
+      "options": [
+        "10~30%",
+        "40~70%",
+        "80~90%",
+        "90% 이상"
+      ],
+      "answerIndex": 1,
+      "explanation": "쾌적 습도의 범위는 일반적으로 40~70%로 본다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "수질오염의 지표로 사용되며 그 수치가 높을수록 오염이 심한 것으로 판정되는 것은?",
+      "options": [
+        "DO(용존산소량)",
+        "pH",
+        "BOD(생화학적 산소요구량)",
+        "수온"
+      ],
+      "answerIndex": 2,
+      "explanation": "BOD(생화학적 산소요구량)는 수치가 높을수록 유기물 오염이 심함을 의미한다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "먹는 물의 수질기준상 대장균군의 허용기준으로 옳은 것은?",
+      "options": [
+        "100mL당 불검출",
+        "100mL당 1개 이하",
+        "100mL당 10개 이하",
+        "100mL당 100개 이하"
+      ],
+      "answerIndex": 0,
+      "explanation": "먹는 물의 수질기준에서 대장균군은 100mL 중에서 검출되지 않아야 한다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "폐기물 처리방법 중 가장 위생적이나 대기오염을 유발할 수 있는 단점이 있는 방법은?",
+      "options": [
+        "매립법",
+        "퇴비화법",
+        "투기법",
+        "소각법"
+      ],
+      "answerIndex": 3,
+      "explanation": "소각법은 폐기물 처리법 중 가장 위생적이지만 대기오염을 유발할 수 있다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "세균성 식중독 중 독소형에 해당하며 잠복기가 가장 짧은 것은?",
+      "options": [
+        "살모넬라균 식중독",
+        "장염비브리오균 식중독",
+        "포도상구균 식중독",
+        "병원성대장균 식중독"
+      ],
+      "answerIndex": 2,
+      "explanation": "포도상구균 식중독은 독소형 식중독으로 잠복기가 가장 짧은 것이 특징이다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "복어의 독성분에 해당하는 것은?",
+      "options": [
+        "솔라닌",
+        "무스카린",
+        "테트로도톡신",
+        "아플라톡신"
+      ],
+      "answerIndex": 2,
+      "explanation": "복어에는 테트로도톡신이라는 신경독소가 함유되어 있어 중독을 일으킨다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "비타민 결핍과 그 증상의 연결이 옳지 않은 것은?",
+      "options": [
+        "비타민 A 결핍 - 야맹증",
+        "비타민 B1 결핍 - 각기병",
+        "비타민 C 결핍 - 괴혈병",
+        "비타민 D 결핍 - 구순염"
+      ],
+      "answerIndex": 3,
+      "explanation": "구순염은 비타민 B2 결핍 증상이며, 비타민 D 결핍은 구루병을 유발한다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "자외선을 쬐었을 때 피부에서 합성되어 구루병 예방에 도움을 주는 영양소는?",
+      "options": [
+        "비타민 A",
+        "비타민 B",
+        "비타민 C",
+        "비타민 D"
+      ],
+      "answerIndex": 3,
+      "explanation": "자외선을 받으면 피부에서 비타민D가 합성되어 구루병 예방에 도움이 된다.",
+      "subCategory": "hygiene-1"
+    },
+    {
+      "category": "hygiene",
+      "question": "소독 관련 용어의 강도를 강한 순서대로 옳게 나열한 것은?",
+      "options": [
+        "멸균 > 소독 > 방부",
+        "소독 > 멸균 > 방부",
+        "방부 > 소독 > 멸균",
+        "소독 > 방부 > 멸균"
+      ],
+      "answerIndex": 0,
+      "explanation": "미생물을 사멸시키는 강도는 멸균이 가장 강하고, 그 다음이 소독, 방부(정균) 순이다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "석탄산계수를 구하는 공식으로 옳은 것은?",
+      "options": [
+        "석탄산 희석배수 ÷ 소독제 희석배수",
+        "소독제 희석배수 ÷ 석탄산 희석배수",
+        "석탄산 농도 × 소독제 농도",
+        "소독제 농도 ÷ 석탄산 농도"
+      ],
+      "answerIndex": 1,
+      "explanation": "석탄산계수는 소독제의 희석배수를 석탄산의 희석배수로 나눈 값이며, 값이 클수록 살균력이 우수함을 의미한다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "소독 효과에 영향을 미치는 요인으로 보기 어려운 것은?",
+      "options": [
+        "온도",
+        "농도",
+        "유기물의 유무",
+        "용기의 색상"
+      ],
+      "answerIndex": 3,
+      "explanation": "소독 효과는 온도·시간·농도·유기물의 유무 등에 영향을 받으며, 용기의 색상은 관련이 없다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용기구의 위생적 처리 순서로 가장 적절한 것은?",
+      "options": [
+        "소독 → 세척 → 멸균",
+        "멸균 → 세척 → 소독",
+        "세척 → 소독 → 멸균",
+        "소독 → 멸균 → 세척"
+      ],
+      "answerIndex": 2,
+      "explanation": "기구는 이물질을 제거하는 세척 후 소독을 거쳐 필요시 멸균하는 순서로 처리하는 것이 원칙이다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "파상풍균과 같은 아포형성균을 완전히 사멸시키기 위해 가장 확실한 방법은?",
+      "options": [
+        "자외선 소독",
+        "역성비누 소독",
+        "고압증기멸균법",
+        "일반 세제 세척"
+      ],
+      "answerIndex": 2,
+      "explanation": "아포형성균은 저항성이 강해 일반 소독으로는 사멸이 어려우며, 고압증기멸균법으로 완전히 사멸시킬 수 있다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "고압증기멸균법의 일반적인 처리 조건으로 옳은 것은?",
+      "options": [
+        "100℃에서 10분간",
+        "63℃에서 30분간",
+        "160℃에서 1시간",
+        "121℃에서 15~20분간"
+      ],
+      "answerIndex": 3,
+      "explanation": "고압증기멸균법은 보통 121℃에서 15~20분간 처리하여 아포까지 완전히 사멸시키는 확실한 멸균법이다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "자비소독법에 대한 설명으로 옳은 것은?",
+      "options": [
+        "100℃의 끓는 물에서 15~20분간 처리하며, 아포는 완전히 사멸되지 않는다.",
+        "160℃ 이상의 건열로 처리한다.",
+        "아포를 포함한 모든 미생물을 완전히 사멸시킨다.",
+        "주로 유리제품 소독에만 사용된다."
+      ],
+      "answerIndex": 0,
+      "explanation": "자비소독은 100℃ 끓는 물에서 15~20분간 처리하는 방법으로, 아포는 완전히 사멸되지 않는 한계가 있다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "우유나 술과 같은 액체 식품의 살균에 주로 사용되며 63~65℃에서 30분간 처리하는 소독법은?",
+      "options": [
+        "고압증기멸균법",
+        "저온살균법(파스퇴르법)",
+        "건열멸균법",
+        "자외선소독법"
+      ],
+      "answerIndex": 1,
+      "explanation": "저온살균법(파스퇴르법)은 63~65℃에서 30분간 처리하여 영양분 손실을 최소화하며 우유·술 등에 사용된다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "자외선 소독법에서 살균에 효과적으로 사용되는 파장은 약 얼마인가?",
+      "options": [
+        "100nm",
+        "253.7nm",
+        "400nm",
+        "700nm"
+      ],
+      "answerIndex": 1,
+      "explanation": "자외선 소독은 약 253.7nm 파장을 이용하며, 투과력이 약해 그림자 진 부분은 소독 효과가 떨어진다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "건열멸균법에 대한 설명으로 옳은 것은?",
+      "options": [
+        "160~180℃의 건조한 열을 이용하며 유리·금속 기구에 적합하다.",
+        "100℃ 이하의 습한 열을 이용한다.",
+        "고무나 플라스틱 제품 소독에 가장 적합하다.",
+        "액체 식품 소독에 주로 사용된다."
+      ],
+      "answerIndex": 0,
+      "explanation": "건열멸균법은 160~180℃의 건열을 이용하며 유리·금속 기구에는 적합하나 고무·플라스틱은 손상될 수 있어 부적합하다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "소독제 살균력을 비교하는 표준 물질로 사용되며 통상 3% 수용액으로 사용되는 것은?",
+      "options": [
+        "크레졸",
+        "석탄산",
+        "승홍수",
+        "에탄올"
+      ],
+      "answerIndex": 1,
+      "explanation": "석탄산은 소독제 살균력 비교의 표준 물질(석탄산계수)로 통상 3% 농도로 사용된다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "결핵균 소독에 특히 효과적이며 석탄산보다 살균력이 강한 소독제는?",
+      "options": [
+        "크레졸",
+        "승홍수",
+        "붕산",
+        "과산화수소"
+      ],
+      "answerIndex": 0,
+      "explanation": "크레졸은 석탄산보다 소독력이 강하고 결핵균 소독에 특히 효과적이며 1~3% 농도로 사용한다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "살균력은 강하지만 금속을 부식시키는 성질이 있어 금속 기구의 소독에는 적합하지 않은 소독제는?",
+      "options": [
+        "에탄올",
+        "역성비누",
+        "승홍수",
+        "크레졸"
+      ],
+      "answerIndex": 2,
+      "explanation": "승홍수는 살균력이 강하나 금속을 부식시키는 성질이 있어 금속 기구 소독에는 적합하지 않다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "에탄올을 이용한 소독 시 살균력이 가장 우수한 농도는?",
+      "options": [
+        "30%",
+        "50%",
+        "70%",
+        "100%"
+      ],
+      "answerIndex": 2,
+      "explanation": "에탄올은 100%보다 70% 농도일 때 살균력이 가장 우수하다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "이상적인 소독약이 갖추어야 할 조건으로 가장 거리가 먼 것은?",
+      "options": [
+        "살균력이 강할 것",
+        "침투력이 강할 것",
+        "인체에 대한 독성이 강할 것",
+        "물에 잘 녹고 안정성이 있을 것"
+      ],
+      "answerIndex": 2,
+      "explanation": "이상적인 소독약은 살균력과 침투력이 강하면서도 인체에 대한 독성은 낮아야 한다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "의류, 식기류 등의 소독에 주로 이용되는 소독법은?",
+      "options": [
+        "건열멸균법",
+        "오존소독법",
+        "방사선멸균법",
+        "자비소독법"
+      ],
+      "answerIndex": 3,
+      "explanation": "자비소독법은 끓는 물을 이용하는 간편한 방법으로 의류·식기류 등의 소독에 널리 사용된다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용실의 금속제 가위, 유리 기구 등을 완전히 멸균하고자 할 때 가장 적합한 방법은?",
+      "options": [
+        "고압증기멸균법",
+        "자외선소독법",
+        "역성비누소독법",
+        "크레졸소독법"
+      ],
+      "answerIndex": 0,
+      "explanation": "고압증기멸균법은 고온·고압의 수증기를 이용해 금속·유리 기구를 완전히 멸균할 수 있는 확실한 방법이다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "상수도나 수영장 물 소독에 주로 사용되는 소독제는?",
+      "options": [
+        "표백분(염소계 소독제)",
+        "승홍수",
+        "크레졸",
+        "포르말린"
+      ],
+      "answerIndex": 0,
+      "explanation": "표백분과 같은 염소계 소독제는 잔류 소독 효과가 있어 상수도나 수영장 물 소독에 주로 사용된다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "변소, 하수, 오물 등의 소독에 널리 사용되는 소독제는?",
+      "options": [
+        "생석회",
+        "알코올",
+        "승홍수",
+        "역성비누"
+      ],
+      "answerIndex": 0,
+      "explanation": "생석회는 가격이 저렴하고 소독력이 있어 변소·하수·오물 등의 소독에 널리 사용된다.",
+      "subCategory": "hygiene-2"
+    },
+    {
+      "category": "hygiene",
+      "question": "「공중위생관리법」의 목적으로 가장 옳은 것은?",
+      "options": [
+        "공중위생영업자의 영업이익 보장",
+        "공중이 이용하는 영업의 위생관리등에 관한 사항을 규정하여 위생수준을 향상시켜 국민의 건강증진에 기여",
+        "미용사 국가자격시험 관리",
+        "감염병의 국가 간 전파 차단"
+      ],
+      "answerIndex": 1,
+      "explanation": "공중위생관리법은 공중이용시설 및 영업의 위생관리에 관한 사항을 규정해 위생수준을 향상시키고 국민건강 증진에 기여함을 목적으로 한다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업을 하려는 자가 관할 행정청에 취해야 하는 절차와 그 관할청을 옳게 짝지은 것은?",
+      "options": [
+        "허가 - 보건복지부장관",
+        "신고 - 보건복지부장관",
+        "등록 - 특별시장·광역시장",
+        "신고 - 시장·군수·구청장"
+      ],
+      "answerIndex": 3,
+      "explanation": "미용업은 신고제이며 관할청은 시장·군수·구청장이다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업 영업자가 폐업한 경우, 폐업신고를 해야 하는 기한은?",
+      "options": [
+        "폐업일로부터 7일 이내",
+        "폐업일로부터 10일 이내",
+        "폐업일로부터 20일 이내",
+        "폐업일로부터 1개월 이내"
+      ],
+      "answerIndex": 2,
+      "explanation": "공중위생영업자는 폐업한 날부터 20일 이내에 관할 시장·군수·구청장에게 폐업신고를 하여야 한다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업 영업신고사항 중 변경신고를 해야 하는 대상이 아닌 것은?",
+      "options": [
+        "영업소의 명칭",
+        "영업소의 소재지",
+        "영업소 대표자의 성명",
+        "영업소에 근무하는 종업원의 수"
+      ],
+      "answerIndex": 3,
+      "explanation": "영업소 명칭·소재지·대표자 등의 변경은 변경신고 대상이나, 종업원 수의 변경은 신고 대상이 아니다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업 영업자의 지위를 승계할 수 있는 자에 대한 설명으로 옳은 것은?",
+      "options": [
+        "미용사 면허를 소지한 자만 승계할 수 있다.",
+        "면허 유무와 관계없이 누구나 승계할 수 있다.",
+        "직계가족이면 면허 없이도 승계할 수 있다.",
+        "승계 시 별도의 신고 절차는 필요 없다."
+      ],
+      "answerIndex": 0,
+      "explanation": "미용업 영업자의 지위 승계는 미용사 면허를 소지한 자만 가능하다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "다음 중 미용사 면허의 결격사유에 해당하는 것은?",
+      "options": [
+        "미성년자",
+        "외국인",
+        "마약 등의 약물 중독자",
+        "고령자"
+      ],
+      "answerIndex": 2,
+      "explanation": "마약 등 약물 중독자는 면허 결격사유에 해당하며, 미성년자·외국인·고령자는 그 자체로 결격사유가 아니다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "「공중위생관리법」상 미용업자의 위생교육 이수 시간 기준으로 옳은 것은?",
+      "options": [
+        "매년 1시간",
+        "매년 3시간",
+        "매년 8시간",
+        "2년마다 6시간"
+      ],
+      "answerIndex": 1,
+      "explanation": "미용업 영업자는 매년 3시간의 위생교육을 받아야 한다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용사 면허취소 등 중대한 행정처분의 대상이 되는 행위는?",
+      "options": [
+        "영업소 내부 조명을 교체한 경우",
+        "면허증을 다른 사람에게 대여한 경우",
+        "위생교육을 하루 늦게 받은 경우",
+        "신고증 사본을 게시한 경우"
+      ],
+      "answerIndex": 1,
+      "explanation": "면허증 대여나 정지기간 중 업무수행은 면허취소 등 중대한 행정처분의 사유가 된다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용사 면허가 취소되거나 면허의 정지명령을 받은 자가 이행해야 할 의무는?",
+      "options": [
+        "관할청에 면허증을 반납해야 한다.",
+        "면허증을 소각해야 한다.",
+        "별도의 의무는 없다.",
+        "면허증을 타인에게 양도해야 한다."
+      ],
+      "answerIndex": 0,
+      "explanation": "면허가 취소되거나 정지된 경우 지체 없이 관할 시장·군수·구청장에게 면허증을 반납해야 한다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용사가 업무범위를 벗어나 문신, 반영구화장 시술 등을 한 경우에 해당하는 것은?",
+      "options": [
+        "정당한 부수 업무로 인정된다.",
+        "미용업 업무범위에 포함된다.",
+        "별도 신고 없이 가능하다.",
+        "의료법 위반에 해당한다."
+      ],
+      "answerIndex": 3,
+      "explanation": "문신·반영구화장 등은 미용사의 업무범위를 벗어난 의료행위로 의료법 위반에 해당한다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업소에서 사용하는 면도날의 위생관리기준으로 옳은 것은?",
+      "options": [
+        "소독 후 재사용이 가능하다.",
+        "1인 1회용으로만 사용해야 한다.",
+        "하루 동안은 여러 명에게 사용할 수 있다.",
+        "별도의 위생기준이 없다."
+      ],
+      "answerIndex": 1,
+      "explanation": "면도날은 1인 1회용만을 사용해야 한다는 위생관리기준이 있다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업소의 영업소 내에 게시해야 할 의무 사항이 아닌 것은?",
+      "options": [
+        "영업신고증",
+        "미용사 면허증 원본",
+        "최종지불요금표",
+        "영업자의 가족관계증명서"
+      ],
+      "answerIndex": 3,
+      "explanation": "신고증·면허증 원본·최종지불요금표는 게시의무 대상이나, 가족관계증명서는 게시의무가 없다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용업소의 조명도(조도) 기준으로 옳은 것은?",
+      "options": [
+        "50럭스 이상",
+        "75럭스 이상",
+        "100럭스 이상",
+        "150럭스 이상"
+      ],
+      "answerIndex": 1,
+      "explanation": "미용업소의 조명도는 75럭스 이상이 되도록 유지해야 한다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "미용기구의 소독기준 중 자외선소독의 최소 조사 시간 기준은?",
+      "options": [
+        "5분 이상",
+        "10분 이상",
+        "20분 이상",
+        "60분 이상"
+      ],
+      "answerIndex": 2,
+      "explanation": "자외선소독은 1cm²당 85μW 이상의 자외선을 20분 이상 조사해야 한다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "신고를 하지 아니하고 미용업 영업을 하거나 영업소 폐쇄명령을 위반하여 계속 영업한 자에 대한 벌칙 기준은?",
+      "options": [
+        "100만원 이하의 과태료",
+        "6개월 이하의 징역 또는 500만원 이하의 벌금",
+        "1년 이하의 징역 또는 1천만원 이하의 벌금",
+        "3년 이하의 징역 또는 3천만원 이하의 벌금"
+      ],
+      "answerIndex": 2,
+      "explanation": "무신고 영업 및 폐쇄명령 위반 영업은 1년 이하의 징역 또는 1천만원 이하의 벌금에 처한다.",
+      "subCategory": "hygiene-3"
+    },
+    {
+      "category": "hygiene",
+      "question": "공중위생영업소의 위생서비스수준 평가 결과에 따른 위생등급 표시 색상 연결로 옳은 것은?",
+      "options": [
+        "최우수업소 - 녹색등급",
+        "최우수업소 - 백색등급",
+        "우수업소 - 녹색등급",
+        "일반관리대상업소 - 황색등급"
+      ],
+      "answerIndex": 0,
+      "explanation": "위생서비스평가 결과 최우수업소는 녹색등급, 우수업소는 황색등급, 일반관리대상업소는 백색등급으로 표시한다.",
+      "subCategory": "hygiene-3"
+    }
+  ]
+}

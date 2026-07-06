@@ -1,0 +1,15 @@
+# OS
+.DS_Store
+
+# Test / tooling artifacts
+.playwright-mcp/
+*.playwright-mcp
+
+# OMC operational state
+.omc/
+
+# Internal build/planning artifact (not used by the site at runtime)
+data/plan.json
+
+# Dependencies (none currently, but guard against accidental installs)
+node_modules/

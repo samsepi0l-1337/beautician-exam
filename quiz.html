@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>문제풀이 | 미용사 필기 스터디</title>
+<meta name="description" content="미용사 필기시험 대비 카테고리별·랜덤 문제풀이">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<a class="skip-link" href="#main-content">본문 바로가기</a>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="index.html" aria-label="미용사 필기 스터디 홈으로 이동">
+      <span class="brand-mark" aria-hidden="true">美</span>
+      <span class="brand-text">미용사 필기 스터디</span>
+    </a>
+
+    <button class="nav-toggle" id="navToggle" type="button" aria-expanded="false" aria-controls="primaryNav" aria-label="메뉴 열기">
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+    </button>
+
+    <nav class="main-nav" id="primaryNav" aria-label="주요 메뉴">
+      <a href="index.html" data-nav="index">홈</a>
+      <a href="study.html" data-nav="study">개념학습</a>
+      <a href="quiz.html" data-nav="quiz" class="active">문제풀이</a>
+      <a href="exam.html" data-nav="exam">모의고사</a>
+    </nav>
+
+    <button class="theme-toggle" id="themeToggle" type="button" aria-label="다크 모드 전환" aria-pressed="false">
+      <svg class="icon icon-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+        <circle cx="12" cy="12" r="4.2" fill="none" stroke="currentColor" stroke-width="1.6"/>
+        <g stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+          <line x1="12" y1="1.5" x2="12" y2="4.2"/>
+          <line x1="12" y1="19.8" x2="12" y2="22.5"/>
+          <line x1="1.5" y1="12" x2="4.2" y2="12"/>
+          <line x1="19.8" y1="12" x2="22.5" y2="12"/>
+          <line x1="4.2" y1="4.2" x2="6.1" y2="6.1"/>
+          <line x1="17.9" y1="17.9" x2="19.8" y2="19.8"/>
+          <line x1="4.2" y1="19.8" x2="6.1" y2="17.9"/>
+          <line x1="17.9" y1="6.1" x2="19.8" y2="4.2"/>
+        </g>
+      </svg>
+      <svg class="icon icon-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+        <path d="M20.5 14.9A8.5 8.5 0 1 1 9.1 3.5a7 7 0 0 0 11.4 11.4Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
+      </svg>
+    </button>
+  </div>
+</header>
+
+<main id="main-content" data-page="quiz">
+  <div class="container">
+    <h1 class="page-title">문제풀이</h1>
+    <p class="page-lead">과목별 순차 풀이 또는 전체 범위 무작위 풀이 중 선택해서 학습하세요.</p>
+
+    <!-- 설정 화면 -->
+    <section id="quizSetup" class="quiz-setup" aria-labelledby="quizSetupHeading">
+      <h2 id="quizSetupHeading" class="visually-hidden">문제풀이 모드 선택</h2>
+
+      <div class="setup-mode-tabs" role="tablist" aria-label="문제풀이 모드">
+        <button type="button" class="mode-tab is-active" data-mode="category" role="tab" aria-selected="true" id="modeTabCategory" aria-controls="categoryPanel">카테고리별 문제</button>
+        <button type="button" class="mode-tab" data-mode="random" role="tab" aria-selected="false" id="modeTabRandom" aria-controls="randomPanel">랜덤 문제</button>
+      </div>
+
+      <div class="setup-panel" id="categoryPanel" role="tabpanel" aria-labelledby="modeTabCategory">
+        <p class="setup-desc">학습할 과목을 하나 선택하면 해당 과목 문제를 처음부터 순서대로 풀이합니다.</p>
+        <div class="category-choice-list" id="categoryChoiceList">
+          <label class="category-choice">
+            <input type="radio" name="categorySingle" value="theory" checked>
+            <span class="badge cat-badge cat-theory">이론</span>
+            <span class="category-choice-name">미용이론</span>
+          </label>
+          <label class="category-choice">
+            <input type="radio" name="categorySingle" value="skin">
+            <span class="badge cat-badge cat-skin">피부</span>
+            <span class="category-choice-name">피부학</span>
+          </label>
+          <label class="category-choice">
+            <input type="radio" name="categorySingle" value="cosmetics">
+            <span class="badge cat-badge cat-cosmetics">화장품</span>
+            <span class="category-choice-name">화장품학</span>
+          </label>
+          <label class="category-choice">
+            <input type="radio" name="categorySingle" value="hygiene">
+            <span class="badge cat-badge cat-hygiene">위생</span>
+            <span class="category-choice-name">공중위생관리학</span>
+          </label>
+        </div>
+      </div>
+
+      <div class="setup-panel" id="randomPanel" role="tabpanel" aria-labelledby="modeTabRandom" hidden>
+        <p class="setup-desc">전체 문제은행에서 무작위로 출제합니다. 포함할 과목을 선택하세요(복수 선택 가능).</p>
+        <div class="category-filter-list" id="categoryFilterList">
+          <label class="category-filter">
+            <input type="checkbox" value="theory" checked>
+            <span class="badge cat-badge cat-theory">이론</span>
+            <span class="category-choice-name">미용이론</span>
+          </label>
+          <label class="category-filter">
+            <input type="checkbox" value="skin" checked>
+            <span class="badge cat-badge cat-skin">피부</span>
+            <span class="category-choice-name">피부학</span>
+          </label>
+          <label class="category-filter">
+            <input type="checkbox" value="cosmetics" checked>
+            <span class="badge cat-badge cat-cosmetics">화장품</span>
+            <span class="category-choice-name">화장품학</span>
+          </label>
+          <label class="category-filter">
+            <input type="checkbox" value="hygiene" checked>
+            <span class="badge cat-badge cat-hygiene">위생</span>
+            <span class="category-choice-name">공중위생관리학</span>
+          </label>
+        </div>
+        <label class="shuffle-toggle">
+          <input type="checkbox" id="shuffleToggle" checked>
+          무작위 출제 (문제 순서·보기 순서 섞기)
+        </label>
+      </div>
+
+      <p class="setup-error" id="setupError" role="alert" hidden></p>
+
+      <div class="setup-actions">
+        <button type="button" class="btn btn-primary" id="startQuizBtn">시작하기</button>
+      </div>
+    </section>
+
+    <!-- 풀이 화면 -->
+    <section id="quizPlay" class="quiz-play" hidden aria-labelledby="quizPlayHeading">
+      <h2 id="quizPlayHeading" class="visually-hidden">문제 풀이 중</h2>
+
+      <p class="quiz-filter-banner" id="quizFilterBanner" hidden></p>
+
+      <div class="quiz-status-bar">
+        <span class="quiz-progress" id="quizProgress">1 / 20</span>
+        <span class="quiz-score">정답 <strong id="quizScore">0</strong>개</span>
+        <button type="button" class="btn btn-ghost btn-sm" id="quitQuizBtn">그만하기</button>
+      </div>
+
+      <div class="progress-bar-track" aria-hidden="true">
+        <div class="progress-bar-fill" id="progressBarFill"></div>
+      </div>
+
+      <div class="question-card" id="questionCard">
+        <div class="question-meta">
+          <span class="badge cat-badge" id="questionCatBadge"></span>
+          <span class="question-number" id="questionNumber"></span>
+        </div>
+        <p class="question-text" id="questionText"></p>
+
+        <div class="option-list" id="optionsList"></div>
+
+        <div class="explanation-box" id="explanationBox" hidden>
+          <p class="explanation-label">해설</p>
+          <p class="explanation-text" id="explanationText"></p>
+        </div>
+      </div>
+
+      <div class="quiz-nav-actions">
+        <button type="button" class="btn btn-primary" id="nextQuestionBtn" disabled>다음 문제</button>
+      </div>
+    </section>
+
+    <!-- 결과 화면 -->
+    <section id="quizResult" class="quiz-result" hidden aria-labelledby="quizResultHeading">
+      <h2 id="quizResultHeading">풀이 결과</h2>
+      <p class="result-score" id="resultScoreText"></p>
+      <div class="result-actions">
+        <button type="button" class="btn btn-primary" id="retryQuizBtn">다시 풀기</button>
+      </div>
+    </section>
+  </div>
+</main>
+
+<script src="js/theme.js" defer></script>
+<script src="js/quiz.js" defer></script>
+</body>
+</html>

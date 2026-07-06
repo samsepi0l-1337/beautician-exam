@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>개념학습 | 미용사 필기 스터디</title>
+<meta name="description" content="미용이론, 피부학, 화장품학, 공중위생관리학 4개 과목의 핵심 개념을 교재처럼 정리했습니다.">
+<link rel="stylesheet" href="css/style.css">
+<style>
+  /* study.html 전용 레이아웃 (css/style.css는 공용 파일이라 직접 수정하지 않고, 이 페이지에서만 쓰는 레이아웃/컴포넌트를 범위 지정해 추가) */
+  .study-main {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: var(--space-6) var(--space-5) var(--space-8);
+  }
+  @media (max-width: 640px) {
+    .study-main {
+      padding: var(--space-5) var(--space-4) var(--space-7);
+    }
+  }
+
+  .study-intro h1 {
+    font-family: var(--font-serif);
+    font-size: var(--fs-2xl);
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+    color: var(--text);
+    margin: 0 0 var(--space-3);
+  }
+  .study-intro p {
+    font-family: var(--font-sans);
+    font-size: var(--fs-md);
+    line-height: 1.7;
+    color: var(--text-secondary);
+    margin: 0 0 var(--space-6);
+    max-width: 62ch;
+  }
+
+  .study-layout {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--space-6);
+  }
+
+  /* 사이드 목차 */
+  .study-toc {
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    background: var(--bg-elevated);
+    padding: var(--space-3);
+  }
+  .study-toc-heading {
+    font-family: var(--font-sans);
+    font-size: var(--fs-xs);
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: var(--text-tertiary);
+    text-transform: uppercase;
+    margin: 0 0 var(--space-2);
+    padding: 0 var(--space-2);
+  }
+  .study-toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-1);
+  }
+  /* 대과목 항목 (라벨 + 중과목 리스트). 대과목 자체는 더 이상 스크롤 앵커가 아니라 그룹 라벨이다. */
+  .study-toc-catitem + .study-toc-catitem {
+    margin-top: var(--space-3);
+    padding-top: var(--space-3);
+    border-top: 1px solid var(--border);
+  }
+  .toc-cat-label {
+    font-family: var(--font-sans);
+    font-size: var(--fs-sm);
+    font-weight: 700;
+    color: var(--text);
+    margin: 0 0 var(--space-1);
+    padding: var(--space-1) var(--space-2);
+    border-left: 3px solid transparent;
+  }
+  .toc-cat-label.is-current {
+    border-left-color: var(--cat-color, var(--accent));
+    color: var(--cat-color, var(--accent));
+  }
+
+  /* 중과목(대과목 하위) 목차 - 들여쓰기 + 작은 글씨의 서브 리스트 */
+  .study-toc-sublist {
+    list-style: none;
+    margin: 2px 0 0;
+    padding-left: var(--space-4);
+    border-left: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+  }
+  .study-toc-subitem {
+    padding: 1px 0;
+  }
+  .toc-sub-row {
+    display: flex;
+    align-items: center;
+    gap: var(--space-1);
+  }
+  .toc-sublink {
+    display: block;
+    flex: 1;
+    min-width: 0;
+    font-family: var(--font-sans);
+    font-size: var(--fs-xs);
+    color: var(--text-secondary);
+    text-decoration: none;
+    padding: var(--space-1) var(--space-3);
+    border-radius: var(--radius-sm);
+  }
+  .toc-sublink:hover {
+    background: var(--bg-subtle);
+    color: var(--accent);
+  }
+  .toc-sublink:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 2px var(--bg-elevated), 0 0 0 4px var(--accent);
+  }
+  .toc-sublink.is-current {
+    color: var(--accent);
+    background: var(--bg-subtle);
+    font-weight: 600;
+  }
+  .toc-caret {
+    flex-shrink: 0;
+    width: 22px;
+    height: 22px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: var(--fs-xs);
+    line-height: 1;
+    color: var(--text-tertiary);
+    background: transparent;
+    border: none;
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    transition: transform 0.15s ease, color 0.15s ease;
+  }
+  .toc-caret:hover {
+    color: var(--accent);
+    background: var(--bg-subtle);
+  }
+  .toc-caret:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 2px var(--bg-elevated), 0 0 0 4px var(--accent);
+  }
+  .toc-caret[aria-expanded="true"] {
+    transform: rotate(180deg);
+  }
+
+  /* 중과목 아래 개념 목록 - 캐럿으로 펼치고 접는다. 현재 중과목만 자동으로 펼쳐진 상태를 유지한다. */
+  .toc-concept-list {
+    list-style: none;
+    margin: 1px 0 var(--space-1) var(--space-3);
+    padding-left: var(--space-3);
+    border-left: 1px dashed var(--border);
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+  }
+  .toc-concept-list[hidden] {
+    display: none;
+  }
+  .toc-concept-link {
+    display: block;
+    font-family: var(--font-sans);
+    font-size: var(--fs-xs);
+    color: var(--text-tertiary);
+    text-decoration: none;
+    padding: var(--space-1) var(--space-2);
+    border-radius: var(--radius-sm);
+  }
+  .toc-concept-link:hover {
+    background: var(--bg-subtle);
+    color: var(--accent);
+  }
+  .toc-concept-link:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 2px var(--bg-elevated), 0 0 0 4px var(--accent);
+  }
+  .toc-concept-link.is-current {
+    color: var(--accent);
+    font-weight: 600;
+    background: var(--bg-subtle);
+  }
+
+  @media (min-width: 641px) {
+    .study-layout {
+      grid-template-columns: 220px minmax(0, 1fr);
+      align-items: start;
+    }
+    .study-toc {
+      position: sticky;
+      top: calc(var(--header-height) + var(--space-4));
+    }
+  }
+
+  /* 본문 컨텐츠 - 한 번에 개념 하나만 보여주는 리더 */
+  .study-content {
+    min-width: 0;
+  }
+  .concept-reader {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-5);
+  }
+
+  .concept {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--cat-color, var(--accent));
+    border-radius: var(--radius-md);
+    padding: var(--space-6) var(--space-5);
+  }
+  .reader-breadcrumb {
+    font-family: var(--font-sans);
+    font-size: var(--fs-xs);
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--cat-color, var(--accent));
+    margin: 0 0 var(--space-3);
+  }
+  .reader-breadcrumb-sep {
+    color: var(--text-tertiary);
+  }
+  .concept-title.reader-title {
+    font-family: var(--font-serif);
+    font-size: var(--fs-2xl);
+    line-height: 1.3;
+    letter-spacing: -0.01em;
+    color: var(--text);
+    margin: 0 0 var(--space-5);
+  }
+  .concept-body {
+    font-family: var(--font-sans);
+    font-size: var(--fs-base);
+    line-height: 1.7;
+    color: var(--text);
+  }
+  .concept-body p {
+    margin: 0 0 var(--space-4);
+  }
+  .concept-body p:last-child {
+    margin-bottom: 0;
+  }
+
+  .concept-box {
+    margin-top: var(--space-4);
+    padding: var(--space-4);
+    border-radius: var(--radius-sm);
+    background: var(--bg-subtle);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--border-strong);
+  }
+  .concept-box-label {
+    font-family: var(--font-sans);
+    font-size: var(--fs-xs);
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: var(--text-secondary);
+    margin: 0 0 var(--space-2);
+  }
+  .concept-box p {
+    font-size: var(--fs-base);
+    line-height: 1.7;
+    color: var(--text);
+    margin: 0;
+  }
+  .concept-summary {
+    border-left-color: var(--accent);
+  }
+  .concept-summary .concept-box-label {
+    color: var(--accent);
+  }
+  .concept-exam-points {
+    border-left-color: var(--warning);
+  }
+  .concept-exam-points .concept-box-label {
+    color: var(--warning);
+  }
+  .concept-exam-points ul {
+    margin: 0;
+    padding-left: var(--space-5);
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-2);
+  }
+  .concept-exam-points li {
+    font-size: var(--fs-base);
+    line-height: 1.7;
+    color: var(--text);
+  }
+
+  /* 이전/다음 개념 이동 + 중과목 문제 풀기 (가운데 primary 버튼) */
+  .reader-nav {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+    align-items: center;
+    gap: var(--space-3);
+  }
+  .reader-nav-btn {
+    max-width: 100%;
+    white-space: nowrap;
+  }
+  .reader-prev {
+    justify-self: start;
+  }
+  .reader-next {
+    justify-self: end;
+  }
+  .reader-nav-btn .reader-nav-title {
+    display: inline-block;
+    min-width: 0;
+    max-width: 14ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    vertical-align: bottom;
+    font-size: 0.7rem;
+    font-weight: 400;
+    opacity: 0.75;
+  }
+  .reader-nav-btn:disabled {
+    opacity: 0.4;
+    cursor: not-allowed;
+    background: transparent;
+    color: var(--text-tertiary);
+    border-color: var(--border);
+  }
+  .reader-nav-btn:disabled:hover {
+    color: var(--text-tertiary);
+    border-color: var(--border);
+  }
+  .reader-quiz-btn {
+    justify-self: center;
+    text-align: center;
+    white-space: normal;
+  }
+  .reader-position {
+    margin: calc(var(--space-2) * -1) 0 0;
+    font-family: var(--font-sans);
+    font-size: var(--fs-xs);
+    color: var(--text-tertiary);
+    text-align: center;
+  }
+
+  @media (max-width: 640px) {
+    .reader-nav {
+      grid-template-columns: 1fr 1fr;
+      grid-template-areas:
+        "quiz quiz"
+        "prev next";
+    }
+    .reader-quiz-btn {
+      grid-area: quiz;
+    }
+    .reader-prev {
+      grid-area: prev;
+    }
+    .reader-next {
+      grid-area: next;
+    }
+    .reader-nav-btn .reader-nav-title {
+      display: none;
+    }
+    /* 27개 중과목 전체가 항상 펼쳐지면 개념 영역을 밀어내므로, 모바일에서는
+       목차를 적당한 높이로 제한하고 스크롤로 나머지를 보게 한다. */
+    .study-toc {
+      max-height: 45vh;
+      overflow-y: auto;
+    }
+  }
+
+  .study-empty,
+  .study-error {
+    font-size: var(--fs-base);
+    color: var(--text-secondary);
+    padding: var(--space-5);
+    border: 1px dashed var(--border-strong);
+    border-radius: var(--radius-md);
+    text-align: center;
+  }
+  .study-error {
+    color: var(--danger);
+    border-color: var(--danger-border);
+    background: var(--danger-bg);
+  }
+</style>
+</head>
+<body>
+<a class="skip-link" href="#main-content">본문 바로가기</a>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="index.html" aria-label="미용사 필기 스터디 홈으로 이동">
+      <span class="brand-mark" aria-hidden="true">美</span>
+      <span class="brand-text">미용사 필기 스터디</span>
+    </a>
+
+    <button class="nav-toggle" id="navToggle" type="button" aria-expanded="false" aria-controls="primaryNav" aria-label="메뉴 열기">
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+      <span class="nav-toggle-bar"></span>
+    </button>
+
+    <nav class="main-nav" id="primaryNav" aria-label="주요 메뉴">
+      <a href="index.html" data-nav="index">홈</a>
+      <a href="study.html" data-nav="study" class="active">개념학습</a>
+      <a href="quiz.html" data-nav="quiz">문제풀이</a>
+      <a href="exam.html" data-nav="exam">모의고사</a>
+    </nav>
+
+    <button class="theme-toggle" id="themeToggle" type="button" aria-label="다크 모드 전환" aria-pressed="false">
+      <svg class="icon icon-sun" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+        <circle cx="12" cy="12" r="4.2" fill="none" stroke="currentColor" stroke-width="1.6"/>
+        <g stroke="currentColor" stroke-width="1.6" stroke-linecap="round">
+          <line x1="12" y1="1.5" x2="12" y2="4.2"/>
+          <line x1="12" y1="19.8" x2="12" y2="22.5"/>
+          <line x1="1.5" y1="12" x2="4.2" y2="12"/>
+          <line x1="19.8" y1="12" x2="22.5" y2="12"/>
+          <line x1="4.2" y1="4.2" x2="6.1" y2="6.1"/>
+          <line x1="17.9" y1="17.9" x2="19.8" y2="19.8"/>
+          <line x1="4.2" y1="19.8" x2="6.1" y2="17.9"/>
+          <line x1="17.9" y1="6.1" x2="19.8" y2="4.2"/>
+        </g>
+      </svg>
+      <svg class="icon icon-moon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+        <path d="M20.5 14.9A8.5 8.5 0 1 1 9.1 3.5a7 7 0 0 0 11.4 11.4Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/>
+      </svg>
+    </button>
+  </div>
+</header>
+
+<main id="main-content" data-page="study">
+  <div class="study-main">
+    <div class="study-intro">
+      <h1>개념학습</h1>
+      <p>미용이론, 피부학, 화장품학, 공중위생관리학 네 과목의 핵심 개념을 한 번에 하나씩 교재처럼 읽어나갑니다. 왼쪽(모바일에서는 상단) 목차에서 과목을 선택하거나, 하단의 이전·다음 버튼으로 순서대로 넘겨보세요.</p>
+    </div>
+
+    <div class="study-layout">
+      <nav class="study-toc" aria-label="과목 목차">
+        <p class="study-toc-heading">과목</p>
+        <ul class="study-toc-list" id="studyToc">
+          <li><span class="study-empty" style="border:none;padding:var(--space-2);">목차를 불러오는 중…</span></li>
+        </ul>
+      </nav>
+
+      <div class="study-content" id="studyContent">
+        <p class="study-empty">개념 데이터를 불러오는 중입니다…</p>
+      </div>
+    </div>
+  </div>
+</main>
+
+<script src="js/theme.js" defer></script>
+<script src="js/study.js" defer></script>
+</body>
+</html>
